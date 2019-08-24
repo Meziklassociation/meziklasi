@@ -8,6 +8,4 @@ description: >-
 baseurl: ""
 url: ""
 
-theme: minima
-
 markdown: kramdown
