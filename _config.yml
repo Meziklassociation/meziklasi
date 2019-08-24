@@ -6,7 +6,7 @@ description: >-
   nacházející se ve středu a v pátek na východě České Republiky.
 
 baseurl: ""
-url: ""
+url: "http://meziklasi.cz/"
 
 theme: minima
 
