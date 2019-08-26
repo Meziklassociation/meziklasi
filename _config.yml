@@ -7,5 +7,7 @@ description: >-
 
 baseurl: ""
 url: ""
+permalink: /:categories/:title:output_ext/
+
 
 markdown: kramdown
