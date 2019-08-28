@@ -154,9 +154,10 @@ body {
     font-style: italic;
     padding-left: $item-padding;
 
-    border-width: 0 0 0 2px;
+    border-width: 0 0 0 3px;
     border-style: dashed;
-	border-color: $quote-color;
+	border-color: lighten($quote-color, 25%);
+
   }
 
   // horizontal rule formatting (fade from sides)
