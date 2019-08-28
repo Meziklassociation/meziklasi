@@ -1,21 +1,17 @@
 ---
 layout: post
-title:  "Vanilkový dort s tresni"
+title:  "Vanilkový dort s třešní 🍰"
 date:   2019-08-26 20:00:00 +0200
 category: Recepty
 ---
 
-## Varování
-Tento repcept je velmi složitý. Není dochovaný, žádný záznam o tom, že by ho někdo někdy v Meziklasí dokončil.
+### ! Varování !
+Tvorba tohoto pokrmu je i přes dochovaný recept velice náročná. Není dochovaný žádný záznam toho, že by ho někdo z Meziklasí dokončil se stejným počtem končetin jako se kterým jej začal – jeho tvorba proto není doporučována mladým dětem, těhotným ženám a Robinovi.
 
-## Ingredience
-Budete potřebovat:
-- 1x Vanilkový dort
-- 1x Třešeň
+### Ingredience
+- 1x vanilkový dort
+- 1x třešeň
 
-
-## Postup
-1. Dostaňte se vzdálenosti 1 metru od dortu
-2. Položte třešeň na dort
-
-
+### Postup
+1. Přibližte se k dortu.
+2. Položte na něj třešeň.
