@@ -140,7 +140,7 @@ body {
   li {p {margin: 0;}}
   
   // remove spacing between a paragraph followed by a list
-  p + ul {margin-top: -$line-spacing;}
+  p + ul, p + ol {margin-top: -$line-spacing;}
 
   // no link decoration (only color)
   a {text-decoration: none;}
