@@ -39,7 +39,6 @@ $serif-font: "Roboto";
 * {
   margin:0;
   padding:0;
-
 }
 
 // content (including navigation) formatting
@@ -176,6 +175,10 @@ body {
     -moz-tab-size: 4;
   }
 
+  footer {
+    p {text-align: center;}
+    a {font-style: italic;}
+  }
 }
 
 
