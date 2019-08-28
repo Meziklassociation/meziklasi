@@ -5,7 +5,7 @@ date:   2019-08-26 20:00:00 +0200
 category: Recepty
 ---
 
-##Varování
+## Varování
 Tento repcept je velmi složitý. Není dochovaný, žádný záznam o tom, že by ho někdo někdy v Meziklasí dokončil.
 
 ## Ingredience
@@ -15,7 +15,7 @@ Budete potřebovat:
 
 
 ## Postup
-1. Dostaňte se radiusu 1 metru od dortu
+1. Dostaňte se vzdálenosti 1 metru od dortu
 2. Položte třešeň na dort
 
 
