@@ -9,10 +9,9 @@ Dne 19. 8. 2019 ve vesnici proběhla každoroční migrace radioaktivních žab 
 
 Žabí migrace je vysoce očekávaná a místním obyvatelstvem oslavovaná událost doprovázena bujarými oslavami, dále také prudkým poklesem radioaktivity vesnice a přilehlých bažin.
 
-## Postřehy účastníků
+### Postřehy účastníků
 Názory obyvatel vesnice byly jako každým rokem nadmíru pozitivní:
 > obyvatel Robin: Mjigraci žiab jsem si vielice užjil. Mjislel jsem, žie ji lietos niestihnu, ale pioštěštilo se! Vždjy rád koukám nia to, jak ty žiabičky žiabkají!
 
 Migrace radioaktivních žab je rovněž jedna z nejdůležitějších turistických událostí vesnice, přitahující ročně řádově jednotky lidí:
 > turistka Květoslava: Jednalo se o moji první migraci. Přijela jsem až z Prahy, ale tato dechberoucí událost stála za to!
-

@@ -5,7 +5,7 @@ date:   2019-08-19 09:00:00 +0200
 category: Recepty
 ---
 
-## Ingredience
+### Ingredience
 Budete potřebovat:
 - 1x sklenice okurek
 - 1x plátek papíru a neořezaná tužka
@@ -17,7 +17,7 @@ Budete potřebovat:
 - 25g uranu 258
 
 
-## Postup
+### Postup
 1. Snězte okurky.
 2. Na papír napište, že Robin je trotl a pečlivě si jej uschovejte.
 3. Položte misku s hořčicí na nastraženou past na medvědy a trpělivě čekejte -- až žába ucítí hořčici, vydá se kvapným kutálením za ní.
@@ -29,7 +29,7 @@ Budete potřebovat:
 9. Až Robin cestou pustí sklenici s okurkami na zem tak prohlašte, že to bylo předpovězeno. Pokud vám nebude věřit, ukažte mu papír.
 10. Posbírejte okurky ze země do misky a servírujte lehce posypané uranem 258 -- strávníci budou bezpochyby zářit štěstím.
 
-## Alergeny
+### Alergeny
 - 1, 7, 12, gama záření.
 
 Může obsahovat stopy Robina (pokud je dostatečně velké nemehlo, tak doslova).
