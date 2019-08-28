@@ -8,6 +8,6 @@ description: >-
 baseurl: ""
 url: "http://meziklasi.cz/"
 
-theme: minima
+permalink: /:categories/:title/
 
 markdown: kramdown

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+    <!-- PAGE TITLE AND DESCRIPTION -->
+    <meta name="description" content="{{site.description}}">
+  
+    <!-- CSS STYLESHEETS AND FONT -->
+    <link rel="stylesheet" href="{{'/assets/css/main.css' | absolute_url}}">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Mono|Roboto:300,300&display=swap" rel="stylesheet">
+
+    <!-- CANONICAL -->
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  </head>
+
+  <body>
+    <div class="header">
+      <h1>{{site.title}}</h1>
+    </div>
+
+    <div class="content">
+      <!-- navigation bar -->
+      <div class="navigation">
+	    <nav>
+          {% assign sections_sorted = site.pages | sort: 'order' %}
+          {% for p in sections_sorted %}
+            <!-- ignore empty titles and 404 page -->
+            {% if p.title and p.title != 404 %}
+              {% if p.title == page.title %}
+              <span class="current-page-item"><a href="{{p.url}}">{{p.title}}</a></span>
+              {% else %}
+              <a href="{{p.url}}">{{p.title}}</a>
+              {% endif %}
+
+              <!-- don't insert the navigation separator at the very end -->
+			  {% unless p == sections_sorted.last %}
+                <span class="navigation-separator"></span>
+			  {% endunless %}
+            {% endif %}
+          {% endfor %}
+        </nav>
+      </div>
+
+	  <hr>
+
+      {{ content }}
+    </div>
+  </body>
+</html>
