@@ -192,6 +192,9 @@ body {
 
   // horizontal rule formatting (fade from sides)
   hr {
+      // so floats don't intercept the horizontal rule
+      clear: both;
+
       border: 0 !important;
       height: 2px;
       background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0));
