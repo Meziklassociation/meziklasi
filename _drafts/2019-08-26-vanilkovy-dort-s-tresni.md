@@ -6,7 +6,7 @@ category: Recepty
 ---
 
 ### ! Varování !
-Tvorba tohoto pokrmu je i přes dochovaný recept velice náročná. Není dochovaný žádný záznam toho, že by ho někdo z Meziklasí dokončil se stejným počtem končetin jako se kterým jej začal – jeho tvorba proto není doporučována mladým dětem, těhotným ženám a Robinovi.
+Tvorba tohoto pokrmu je i za pomoci podrobně sepsaného receptu velice náročná. Není dochovaný žádný záznam toho, že by jej někdo z Meziklasí dokončil se stejným počtem končetin jako se kterým jej začal – jeho tvorba proto není doporučována mladým dětem, těhotným ženám a Robinovi.
 
 ### Ingredience
 - 1x vanilkový dort
