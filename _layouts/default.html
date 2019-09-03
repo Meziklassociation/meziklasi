@@ -6,6 +6,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
     <!-- PAGE TITLE AND DESCRIPTION -->
+    {% if page.order == 0 %}
+	  <title>{{ site.title | split: " " | first }}</title>
+	{% else %}
+	  <title>{{ site.title | split: " " | first }} – {{ page.title }}</title>
+    {% endif %}
     <meta name="description" content="{{site.description}}">
   
     <!-- CSS STYLESHEETS AND FONT -->
@@ -47,6 +52,12 @@
 	  <hr>
 
       {{ content }}
-    </div>
+
+	  <hr>
+
+	  <footer>
+	    <p>V případě nouze pište na <a href="mailto:{{ site.email }}">{{ site.email }}</a>.</p>
+	  </footer>
+	 </div>
   </body>
 </html>
