@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Vanilkový dort s třešní 🍰"
-date:   2019-08-26 20:00:00 +0200
+date:   2019-09-01
 category: Recepty
 ---
 
