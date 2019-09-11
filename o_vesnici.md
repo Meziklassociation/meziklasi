@@ -37,7 +37,7 @@ Meziklasí (japonsky 耳の間) je s největší pravděpodobností vesnice, nac
 </table>
 
 ### Historie
-V průběhu prvohor a druhohor se zde kvůli rapidnímu rozestupu tektonických desek vytvořil supervulkán, který by nebýt v oblasti žijících radioaktivních žab a využívajících jej jako vířivku bezesporu pohltil celou Zeměkouli. Dinosauři se kvůli výskytu těchto žab k místu ze strachu o svůj život nepřibližovali, proto se v okolí nevysykytují žádné zkameněliny.
+V průběhu prvohor a druhohor se zde kvůli rapidnímu rozestupu tektonických desek vytvořil supervulkán, který by nebýt v oblasti žijících radioaktivních žab využívajících jej jako vířivku bezesporu pohltil celou Zeměkouli. Dinosauři se kvůli výskytu těchto žab k místu ze strachu o svůj život nepřibližovali, proto se v okolí žádné zkameněliny nevyskytují.
 
 První dochované zmínky o existenci vesnice pocházejí z deníků krále Artuše při jeho honu za svatou sklenicí od okurek na [mezikvašák](/recepty/mezikvasak/) (později kvůli marketingu poupraveno na svatý grál), kterou zde nenašel.
 
