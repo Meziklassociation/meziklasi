@@ -85,6 +85,11 @@ $serif-font: "Roboto";
   // italics for the first column
   tr {td:first-of-type {font-style: italic;}}
 
+  // image formatting
+  td {vertical-align: bottom;}
+  img {max-width: $website-size * 0.2;}
+  figcaption {text-align: center;}
+
   // color and border settings
   border: 1px solid;
   background-color: $wiki-background-color;
