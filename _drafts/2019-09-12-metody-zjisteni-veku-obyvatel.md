@@ -12,3 +12,6 @@ První vyzkoušená metoda, zpočívala v tom, že z jedinece byl vyříznut kol
 
 Z místní kronice byl komentář, jednoho meziklasského rodáka Robina:
 >Jako som zase zapoměl kolik mi to je, tak budu zase menčí
+
+### Metoda rozboru lišejníků
+Protože obyvatelé Meziklasí se moc rychle nepohybují, zpravidla ze severní strany obrůstají lišejníky. Z množství vrstev lze odhadnout přibližné stáří. Tato metoda je ale velmi nepřesná a je ovlivňována tuhostí zimy. Z těchto důvodů se od ní po čase upustilo.
