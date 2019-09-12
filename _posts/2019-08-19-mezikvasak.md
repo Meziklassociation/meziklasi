@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mezikvašák 🥒"
-date:   2019-08-19 09:00:00 +0200
+date:   2019-08-19
 category: Recepty
 ---
 
@@ -19,7 +19,7 @@ Budete potřebovat:
 
 ### Postup
 1. Snězte okurky.
-2. Na papír napište, že Robin je trotl a pečlivě si jej uschovejte.
+2. Na papír napište, že Robin je kokos a pečlivě si jej uschovejte.
 3. Položte misku s hořčicí na nastraženou past na medvědy a trpělivě čekejte -- až žába ucítí hořčici, vydá se kvapným kutálením za ní.
 	- Pokud žába na past kvůli staletím existence tohoto receptu nenaletí, vyběhněte s vlajkou a horlivě s ní máchejte v polokruzích nad hlavou -- žába se lekne a na past skočí.
 6. Odneste protestující žábu domů. Zde jí zabavte její cestovní pas a zákaznickou kartu do LIDLu pro případ, kdyby chtěla utéci.
