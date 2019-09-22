@@ -46,5 +46,5 @@ Ve spolupráci s vědeckou komunitou, meziklasská elita vytvořila systém náz
 | `-pád`	|
 | `-in`		|
 | `-wehr`	|
-| `berg`	|
+| `-berg`	|
 
