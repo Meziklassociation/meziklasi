@@ -15,6 +15,6 @@ Ve spolupráci s vědeckou komunitou, meziklasská elita vytvořila systém náz
 
 | **Koncovka** | **Význam** | **Příklad** | **Poznámka** |
 |--------------|:----------:|:-----------:|-------------:|
-|`-la`	       | Gondola na které se veze zvíře | `Dogola` = Gondola na které pluje pes |
-|---|---|---|
-
+| `-la`	       | Gondola na které se veze zvíře | `Dogola` = Gondola na které pluje pes |
+| `-stán`      | Absolutistický stát řízený zvířetem | `Brdostán` = Stát ve kterém je diktátor pták |
+| `-téka`      | Půjčka na pořízení zvířete | `Dogotéka` = půjčka na psa | Hypotéka, v původním významu byla půjčka na hrocha. V průběhu času se tak začali označovat půjčky na jiné drahé věci. |
