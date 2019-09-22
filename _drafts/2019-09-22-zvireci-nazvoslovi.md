@@ -13,8 +13,8 @@ Ve spolupráci s vědeckou komunitou, meziklasská elita vytvořila systém náz
 
 ## Tabulka koncovek
 
-| **Koncovka** | **Význam** | **Příklad** |
-|--------------|:----------:|------------:|
+| **Koncovka** | **Význam** | **Příklad** | **Poznámka** |
+|--------------|:----------:|:-----------:|-------------:|
 |`-la`	       | Gondola na které se veze zvíře | `Dogola` = Gondola na které pluje pes |
 |---|---|---|
 
