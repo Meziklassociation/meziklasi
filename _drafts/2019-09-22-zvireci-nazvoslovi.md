@@ -30,7 +30,7 @@ Ve spolupráci s vědeckou komunitou, meziklasská elita vytvořila systém náz
 | `-burg`	| Zvířecí šlechtický rod původem z Německa | `Horsoburg` = kůň, který je šlechtic s německým původem |
 | `-stein`	| Zvíře, které je členem německé industrial-metalové skupiny | `Dogostein` = pes, který je členem německé industrial-metalové skupiny |
 | `-rtila`	| Mexický pokrm, připravené ze zvířete	| `Dogortila` = Mexický pokrm připravený ze psa |
-| `-bit`	| Skamenělina předka onoho zvířete	| `Brdolit` = Skamenělina předka ptáka		|
+| `-bit`	| Skamenělina předka onoho zvířete	| `Brdobit` = Skamenělina předka ptáka		|
 | `-líza`	|
 | `-vník`	|
 | `-nium`	|
