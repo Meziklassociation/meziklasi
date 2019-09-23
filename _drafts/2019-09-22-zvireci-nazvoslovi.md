@@ -29,8 +29,8 @@ Ve spolupráci s vědeckou komunitou, meziklasská elita vytvořila systém náz
 | `-craft`	| Klon hry Minecraft, který naprogramovalo zvíře | `Aquocraft` = Minecraft naprogramovaný rybou |
 | `-burg`	| Zvířecí šlechtický rod původem z Německa | `Horsoburg` = kůň, který je šlechtic s německým původem |
 | `-stein`	| Zvíře, které je členem německé industrial-metalové skupiny | `Dogostein` = pes, který je členem německé industrial-metalové skupiny |
-| `-rtila`	| Mexický pokrm, připravené ze zvířete	| `Dogortila` = Mexický pokrm připravený ze psa |
-| `-bit`	| Skamenělina předka onoho zvířete	| `Brdobit` = Skamenělina předka ptáka		|
+| `-rtila`	| Mexický pokrm, připravené ze zvířete	| `Dogortila` = mexický pokrm připravený ze psa |
+| `-bit`	| Skamenělina předka onoho zvířete	| `Brdobit` = skamenělina předka ptáka		| Trilobit je předek nikdy nenalezeného zvířete Trilo |
 | `-líza`	|
 | `-vník`	|
 | `-nium`	|
@@ -40,13 +40,12 @@ Ve spolupráci s vědeckou komunitou, meziklasská elita vytvořila systém náz
 | `-láda`	|
 | `-ces`	|
 | `-metr`	|
-| `-nátor`	|
+| `-nátor`	| Robotické zvíře z budoucnosti, stvárněné Arnoldem Schwarzeneggerem | `Shrimponátor` - Robotická kreveta z budoucnosti hraná Arnold Schwarzeneggerem |
 | `-lit`	|
 | `-ria`	|
 | `-vana`	|
 | `-lizér`	|
 | `-pád`	|
-| `-in`		|
+| `-in`		| Heroin s příchutí zvířete		| `Whaloin` - heroin s příchutí verliby		|
 | `-wehr`	|
 | `-berg`	|
-
