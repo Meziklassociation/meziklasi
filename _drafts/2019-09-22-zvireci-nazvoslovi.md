@@ -16,15 +16,15 @@ Základ pro toto názvosloví se vytvoří velmi jednoduše. Stačí postupovat 
 2. **Další postup se odvíjí od počtu slabik.**
 3. **Na základě počtu slabik se odvozuje další krok**
 	a. Slovo má více než dvě slabiky
-		V takovém případě, slovo zkrátime na dvě slabiky a druhou slabiku zakončíme písmenem `o`. <\br>
+		V takovém případě, slovo zkrátime na dvě slabiky a druhou slabiku zakončíme písmenem `o`. <space><space>
 		Například: `Ptakopysk` -> `Platipus` -> `Plato`
 	
 	b. Slovo má dvě slabiky
-		Tehdy ho pouze zakončíme na `o`. <\br>
+		Tehdy ho pouze zakončíme na `o`. <space><space>
 		Například: `Kůň` -> `Horse` -> `Horso`
 	
 	c. Slovo má jednu slabiku
-		V této situaci musíme slovo rozšířit na dvě slabiky. Nejčastěji stačí přidat písmeno `o`. <\br> 
+		V této situaci musíme slovo rozšířit na dvě slabiky. Nejčastěji stačí přidat písmeno `o`. <space><space> 
 		Například: `Pes` -> `Dog` -> `Dogo`
 
 **Vyjímky:**
