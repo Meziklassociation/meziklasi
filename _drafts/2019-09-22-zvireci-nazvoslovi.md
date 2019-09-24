@@ -14,12 +14,15 @@ Základ pro toto názvosloví se vytvoří velmi jednoduše. Stačí postupovat 
 
 1. Přeložte název zvířete do angličtiny
 2. Další postup se odvíjí od počtu slabik.
+
 	a. ### Slovo má více než dvě slabiky
 		V takovém případě, slovo zkrátime na dvě slabiky a druhou slabiku zakončíme písmenem `o`.
 		Například `Ptakopysk` -> `Platipus` -> `Plato`
+	
 	b. ### Slovo má dvě slabiky
 		Tehdy ho pouze zakončíme na `o`.
 		Například `Kůň` -> `Horse` -> `Horso`
+	
 	c. ### Slovo má jednu slabiku
 		V této situaci musíme slovo rozšířit na dvě slabiky. Nejčastěji stačí přidat písmeno `o`.
 		Například `Pes` -> `Dog` -> `Dogo`
