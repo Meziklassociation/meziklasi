@@ -13,8 +13,7 @@ Ve spolupráci s vědeckou komunitou, meziklasská elita vytvořila systém náz
 Základ pro toto názvosloví se vytvoří velmi jednoduše. Stačí postupovat v tomto pořadí:
 
 1. **Přeložte název zvířete do angličtiny.**
-2. **Další postup se odvíjí od počtu slabik.**
-3. **Na základě počtu slabik se odvozuje další krok**
+2. **Na základě počtu slabik se odvozuje další krok**
 
 	a. Slovo má více než dvě slabiky
 		V takovém případě, slovo zkrátime na dvě slabiky a druhou slabiku zakončíme písmenem `o`. <space><space>
@@ -22,7 +21,7 @@ Základ pro toto názvosloví se vytvoří velmi jednoduše. Stačí postupovat 
 	
 	b. Slovo má dvě slabiky
 		Tehdy ho pouze zakončíme na `o`. <space><space>
-		Například: `Kůň` -> `Horse` -> `Horso`
+		Například: `Zebra` -> `Zebra` -> `Zebro`
 	
 	c. Slovo má jednu slabiku
 		V této situaci musíme slovo rozšířit na dvě slabiky. Nejčastěji stačí přidat písmeno `o`. <space><space> 
@@ -65,9 +64,9 @@ Základ pro rybu by byl podle pravidel `Fisho`, ale aby se nám lépe vyslovoval
 | `-steroid`	| Zvíře, které spadlo z vesmíru		| `Pigosteroid` = prase, které spadlo z vesmíru | První Dogosteroid byla Laika |
 | `-stán`	| Absolutistický stát řízený zvířetem	| `Brdostán` = Stát ve kterém je diktátor pták 	|
 | `-syntéza`	|
+| `-š`		| Zvíře, jehož mentální rozpoložení lze nejlépe popsat slovem *Langoš* | `Dogoš` = pes, jehož mentální rozpoložení je langoš | Tato koncovka je překvapivě užitečnější a frekventovanější, než se může na první pohled zdát. |
 | `-t`		| Robotická verze zvířete		| `Catot` = robotická kočka | Jediný kdo tuto koncovku rozbíjí je Robin. Protože robotický Robin, je Robot. To může být v některých situacích matoucí|
 | `-téka`	| Půjčka na pořízení zvířete		| `Dogotéka` = půjčka na psa | Hypotéka v původním významu byla půjčka na hrocha. V průběhu času se tak začali označovat půjčky na jiné drahé věci. |
 | `-vana`	|
 | `-vník`	|
 | `-werk`	| Zvíře, které je průkopník elektronické hubdy | `Dogowerk` = Pes experimentující se sythetizátorem |
-| `-š`		| Zvíře, jehož mentální rozpoložení lze nejlépe popsat slovem *Langoš* | `Dogoš` = pes, jehož mentální rozpoložení je langoš | Tato koncovka je překvapivě užitečnější a frekventovanější, než se může na první pohled zdát. |
