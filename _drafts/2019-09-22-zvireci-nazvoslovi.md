@@ -10,6 +10,23 @@ category: Vědecké články
 Ve spolupráci s vědeckou komunitou, meziklasská elita vytvořila systém názvosloví zvířat. Jejím účelem, je za co nejkratší čas podat o zvířeti co nejvíce možno inforamcí. Níže je tabulka finální mezinárodně uznané verze:
 
 ## Jak vytvořit základ 
+Základ pro toto názvosloví se vytvoří velmi jednoduše. Stačí postupovat v tomto pořadí:
+
+1. Přeložte název zvířete do angličtiny
+2. Další postup se odvíjí od počtu slabik.
+	a. ### Slovo má více než dvě slabiky
+		V takovém případě, slovo zkrátime na dvě slabiky a druhou slabiku zakončíme písmenem `o`.
+		Například `Ptakopysk` -> `Platipus` -> `Plato`
+	b. ### Slovo má dvě slabiky
+		Tehdy ho pouze zakončíme na `o`.
+		Například `Kůň` -> `Horse` -> `Horso`
+	c. ### Slovo má jednu slabiku
+		V této situaci musíme slovo rozšířit na dvě slabiky. Nejčastěji stačí přidat písmeno `o`.
+		Například `Pes` -> `Dog` -> `Dogo`
+
+3. Vyjímky:
+Základ pro rybu by byl podle pravidel `Fisho`, ale aby se nám lépe vyslovoval, můžete použít `Aquo`.
+		
 
 ## Tabulka koncovek
 
