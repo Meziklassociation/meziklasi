@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Názvosloví zvířat"
+title:  "Názvosloví zvířat 🐶"
 date:   2019-09-22
 category: Vědecké články
 ---
@@ -12,25 +12,22 @@ Ve spolupráci s vědeckou komunitou, meziklasská elita vytvořila systém náz
 ## Jak vytvořit základ 
 Základ pro toto názvosloví se vytvoří velmi jednoduše. Stačí postupovat v tomto pořadí:
 
-1. Přeložte název zvířete do angličtiny
-2. Další postup se odvíjí od počtu slabik.
-
+1. **Přeložte název zvířete do angličtiny.**
+2. **Další postup se odvíjí od počtu slabik.**
+3. **Na základě počtu slabik se odvozuje další krok**
 	a. Slovo má více než dvě slabiky
-		V takovém případě, slovo zkrátime na dvě slabiky a druhou slabiku zakončíme písmenem `o`.
-		
-		Například `Ptakopysk` -> `Platipus` -> `Plato`
+		V takovém případě, slovo zkrátime na dvě slabiky a druhou slabiku zakončíme písmenem `o`. <\br>
+		Například: `Ptakopysk` -> `Platipus` -> `Plato`
 	
 	b. Slovo má dvě slabiky
-		Tehdy ho pouze zakončíme na `o`.
-		
-		Například `Kůň` -> `Horse` -> `Horso`
+		Tehdy ho pouze zakončíme na `o`. <\br>
+		Například: `Kůň` -> `Horse` -> `Horso`
 	
 	c. Slovo má jednu slabiku
-		V této situaci musíme slovo rozšířit na dvě slabiky. Nejčastěji stačí přidat písmeno `o`.
-		
-		Například `Pes` -> `Dog` -> `Dogo`
+		V této situaci musíme slovo rozšířit na dvě slabiky. Nejčastěji stačí přidat písmeno `o`. <\br> 
+		Například: `Pes` -> `Dog` -> `Dogo`
 
-3. Vyjímky:
+**Vyjímky:**
 
 Základ pro rybu by byl podle pravidel `Fisho`, ale aby se nám lépe vyslovoval, můžete použít `Aquo`.
 		
