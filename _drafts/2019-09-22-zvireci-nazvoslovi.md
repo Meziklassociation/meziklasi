@@ -44,8 +44,8 @@ Ve spolupráci s vědeckou komunitou, meziklasská elita vytvořila systém náz
 | `-lit`	|
 | `-ria`	|
 | `-vana`	|
-| `-lizér`	|
-| `-pád`	|
+| `-lyzér`	| Paralyzér, který zneškodňuje ránou zvířetem a né elektřinou	| `Duckolyzér` = Paralyzér, který vás omráčí ránou z kachny	|
+| `-pád`	| Vodopád, ale místo vody padají zvířata| `Crabopád` = místo, ze kterého ve velkém množstí padají kraby	| Viktoriiny vodopády nejsou místo, kde padají Viktorie |
 | `-in`		| Heroin s příchutí zvířete		| `Whaloin` - heroin s příchutí verliby		|
 | `-wehr`	|
-| `-berg`	|
+| `-berg`	| Ledovec ve tvaru zvířete, který potopil loď s Leonardem Dicapriem | `Duckoberg` = Ledovec ve tvaru kachny, který potopil loď Leem |
