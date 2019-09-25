@@ -13,5 +13,5 @@ Meziklasský obranný systém patří k jedním z nejunikátnějším na světě
 > - 1/3 přítomných se zdržela hlsování
 > - Další třetina přítomných přiznala, že se účastní jenom kvůli občerstvení a že jí hlasování nezajímá.
 > - Nakonec vyhrál návrh občana Ygora s 33% hlasů přítomných voličů
-
-
+> - Byl dohodnut termín dalšího setkání, pro diskuzi podoby budoucího obraného systému 
+> - Došli chlebíčky a sněm byl rozpuštěn

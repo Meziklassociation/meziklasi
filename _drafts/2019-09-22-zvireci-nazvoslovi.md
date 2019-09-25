@@ -5,7 +5,7 @@ date:   2019-09-22
 category: Vědecké články
 ---
 
-# Nazvosloví zvířat
+# Názvosloví zvířat
  
 Ve spolupráci s vědeckou komunitou, meziklasská elita vytvořila systém názvosloví zvířat. Jejím účelem, je za co nejkratší čas podat o zvířeti co nejvíce možno inforamcí. Níže je tabulka finální mezinárodně uznané verze:
 
@@ -15,17 +15,17 @@ Základ pro toto názvosloví se vytvoří velmi jednoduše. Stačí postupovat 
 1. **Přeložte název zvířete do angličtiny.**
 2. **Na základě počtu slabik se odvozuje další krok**
 
-	a. Slovo má více než dvě slabiky
-		V takovém případě, slovo zkrátime na dvě slabiky a druhou slabiku zakončíme písmenem `o`. <space><space>
-		Například: `Ptakopysk` -> `Platipus` -> `Plato`
+a. **Slovo má více než dvě slabiky**
+	V takovém případě, slovo zkrátime na dvě slabiky a druhou slabiku zakončíme písmenem `o`. <space><space>
+	Například: `Ptakopysk` -> `Platipus` -> `Plato`
 	
-	b. Slovo má dvě slabiky
-		Tehdy ho pouze zakončíme na `o`. <space><space>
-		Například: `Zebra` -> `Zebra` -> `Zebro`
+b. **Slovo má dvě slabiky**
+	Tehdy ho pouze zakončíme na `o`. <space><space>
+	Například: `Zebra` -> `Zebra` -> `Zebro`
 	
-	c. Slovo má jednu slabiku
-		V této situaci musíme slovo rozšířit na dvě slabiky. Nejčastěji stačí přidat písmeno `o`. <space><space> 
-		Například: `Pes` -> `Dog` -> `Dogo`
+c. **Slovo má jednu slabiku**
+	V této situaci musíme slovo rozšířit na dvě slabiky. Nejčastěji stačí přidat písmeno `o`. <space><space> 
+	Například: `Pes` -> `Dog` -> `Dogo`
 
 **Vyjímky:**
 
@@ -59,7 +59,7 @@ Základ pro rybu by byl podle pravidel `Fisho`, ale aby se nám lépe vyslovoval
 | `-pád`	| Vodopád, ale místo vody padají zvířata| `Crabopád` = místo, ze kterého ve velkém množstí padají kraby	| Viktoriiny vodopády nejsou místo, kde padají Viktorie |
 | `-r`		|
 | `-ria`	|
-| `-rtila`	| Mexický pokrm, připravené ze zvířete	| `Dogortila` = mexický pokrm připravený ze psa |
+| `-rtila`	| Mexický pokrm, připravený ze zvířete	| `Dogortila` = mexický pokrm připravený ze psa |
 | `-stein`	| Zvíře, které je členem německé industrial-metalové skupiny | `Dogostein` = pes, který je členem německé industrial-metalové skupiny |
 | `-steroid`	| Zvíře, které spadlo z vesmíru		| `Pigosteroid` = prase, které spadlo z vesmíru | První Dogosteroid byla Laika |
 | `-stán`	| Absolutistický stát řízený zvířetem	| `Brdostán` = Stát ve kterém je diktátor pták 	|
