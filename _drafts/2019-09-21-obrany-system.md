@@ -1,10 +1,17 @@
 ---
 layout: post
-title:  "Meziklasský systém obrany"
-date:   2019-08-19
-category: Recepty
+title:  "Systém obrany ⚔️"
+date:   2019-09-25
+category: Novinky
 ---
 
-### Meziklasský obraný systém
+# Meziklasský systém obrany
 
-Meziklasský obranný systém patří k jedním z nejunikátnějším na světě. Vznikl relativně nedávno, v devadesátých letech minulého století, kdy po sametové revoluci v roce 1989, meziklasští obyvatelé zjistili, že se nachází na území nějakého státu státu.
+Meziklasský obranný systém patří k jedním z nejunikátnějším na světě. Vznikl relativně nedávno, v devadesátých letech minulého století, kdy se do Meziklasí donesla novina, že už existují i jiného typu než polysy. Tehdy byl svolán sněm, ve kterém se demokraticky hlasovalo co jak na to bude Meziklasí reagovat. Hlasování se zúčastnila nadpoloviční část vesnice tedy 3 voliči. Záznam sněmu obsahuje tyto informace
+
+- Občan Ygor navrhl založit obraný systém. 
+- 1/3 přítomných se zdržela hlsování
+- Další třetina přítomných přiznala, že se účastní jenom kvůli občerstvení a že jí hlasování nezajímá.
+- Nakonec vyhrál návrh občana Ygora s 33% hlasů přítomných voličů
+
+
