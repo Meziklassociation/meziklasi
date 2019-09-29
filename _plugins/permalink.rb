@@ -11,7 +11,7 @@ module Jekyll
       site.posts.docs.each do |item|
         category = I18n.transliterate(item.data['category'].downcase.gsub(" ", "-"))
         title = item.data['slug']
-
+    
         item.data['permalink'] = "#{category}/#{title}/"
       end
     end
