@@ -16,7 +16,7 @@ V místní kronice byla tato metoda komentována meziklasským rodákem Robinem 
 > Jiakmile zjapomenu, kolik mi to jie, tak budu zjase o kjus menšjí.
 
 ### Metoda rozboru lišejníků
-Protože obyvatelé Meziklasí se kvůli nedostatku přirozených predátorů nemají důvod pohybovat obzvláště rychle, tak zpravidla ze severní strany obrůstají lišejníky. Z množství vrstev lze tedy odhadnout přibližné stáří jednotlivce, či při případném "srůstu" i skupiny. 
+Protože obyvatelé Meziklasí se kvůli nedostatku přirozených predátorů nemají důvod pohybovat obzvláště rychle, tak zpravidla ze severní strany obrůstají lišejníky. Z množství vrstev lze tedy odhadnout přibližné stáří jednotlivce, či při případném „srůstu“ i skupiny. 
 
 Tato metoda je však výrazně ovlivňována tuhostí zimy, proto je velmi nepřesná -- z těchto důvodů se od ní proto časem upustilo, což v dopise své tetě z Bruntálu zachycuje poeticky nadaný meziklasský rodák Ygor:
 
