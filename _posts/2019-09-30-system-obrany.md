@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Systém obrany 🛡️"
-date:   2019-09-25
-category: Novinky
+date:   2019-09-30
+category: Historické
 ---
 
 Meziklasský obranný systém patří k jedněm z nejunikátnějších na světě. Vznikl relativně nedávno (90. léta minulého století), kdy se do Meziklasí donesla novina, že už existují státy jiného typu než polis a že některé z těchto států mají zálusk na jejich legendární [kulinářské recepty](/clanky/#recepty).
 
-Tento článek popisuje proces vzniku, detaily (ne)fungování a v neposlední řadě v meziklasských dějinách významný hrdinský čin této legendární skupiny.
+Tento článek popisuje proces vzniku, detaily (ne)fungování a v neposlední řadě tragický zánik této legendární skupiny.
 
 ### První meziklasský sněm
 Na naléhání občana Ygora byl poprvé za dobu existence vesnice svolán sněm, na kterém se demokraticky hlasovalo o tom, jak před okolními státy uchránit své recepty. Hlasování se zúčastnila nadpoloviční většina obyvatel vesnice, tedy 3 voliči, a poměrně zmatená žába, kterou však účast brzy omrzela. 
@@ -23,6 +23,7 @@ Bodový záznam sněmu v místní kronice obsahuje následující informace:
 ### Druhý meziklasský sněm
 Dalšího sněmu se zúčastnili všichni, kdo hlasovali pro založení obranného systému, tedy Ygor. Zde však nastal poněkud závažný problém: uchazečů o funkce bylo výrazně méně než funkcí samotných. Z tohoto důvodu byli někteří nuceni zastávat více než jednu funkci najednou: 
 
+{: .alignment-table }
 | Hlavní generál: | Ygor |
 | Vojenský soudce: | Ygor |
 | Šéf tajných služeb: | Ygor |
