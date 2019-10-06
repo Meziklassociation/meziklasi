@@ -27,7 +27,7 @@ Dalšího sněmu se zúčastnili všichni, kdo hlasovali pro založení obranné
 | Hlavní generál: | Ygor |
 | Vojenský soudce: | Ygor |
 | Šéf tajných služeb: | Ygor |
-| Agent tajných služeb: | Anonymní |
+| Agent tajných služeb: | Přísně tajné |
 | Plukovník: | Ygor |
 | Desátník: | Ygor |
 | Vojín: | Ygor |
