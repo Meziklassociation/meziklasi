@@ -30,12 +30,12 @@ Zde je několik příkladů správného převodu.
 | Koncovka | Význam | Příklad |
 |---|:-:|:-:|--:
 | _-berg_			| ledovec ve tvaru zvířete, který potopil loď s Leonardem DiCapriem | _Duckoberg_ = Ledovec ve tvaru kachny, který potopil loď Leem
-| _-bit_[^bit]		| zkamenělina předka zvířete | _birdobit_ = zkamenělina předka ptáka | 
+| _-bit_[^bit]			| zkamenělina předka zvířete | _birdobit_ = zkamenělina předka ptáka | 
 | _-burg_			| zvířecí šlechtický rod původem z Německa | _Horsoburg_ = kůň, který je šlechtic s německým původem
-| _-burger_ 		| hamburger připravený ~~ze~~ za pomoci zvířete
+| _-burger_ 			| hamburger připravený ~~ze~~ za pomoci zvířete
 | _-by_				| rugby, ale místo ~~míče~~ lidí je zvíře | _Carpoby_ = rugby, ale místo míče hrajte s kaprem
-| _-ces_			|
-| _-coin_			| další naprosto zbytečná kryptoměna
+| _-cest_			| incest spáchaný se zvířetem | _Dogoccest_ = čin, kvůli kterému Vás Vaši příbuzní přestali zvát na rodinné události 
+| _-coin_			| další naprosto zbytečná kryptoměna, která má ve znaku zvíře | _Dogocoin_ = kryptoměna, která z nějakého důvodu doopravdy existuje
 | _-craft_			| klon hry Minecraft, který jako vysokoškolský zápočtový program zvíře naprogramovalo | _Aquocraft_ = Minecraft naprogramovaný rybou
 | _-in_				| heroin s příchutí zvířete | _Whaloin_ - heroin s příchutí velryby
 | _-ko_				| umělecký směr význačný tlustými sochami zvířete | _Dogoko_ = Styl ve, kterém byla vytesána socha tlustého psa
@@ -47,24 +47,24 @@ Zde je několik příkladů správného převodu.
 | _-lyzér_			| paralyzér, který místo elektřinou paralyzuje ránou zvířetem | _Duckolyzér_ = Paralyzér, který vás omráčí ránou kachnou
 | _-láda_			| čokoláda ~~ze~~ ve tvaru zvířete
 | _-líza_			|
-| _-man_			| komiksový superhrdina 
+| _-man_			| komiksový superhrdina, který jehož skrytá identita je zvýře | "Craboman" = Superhrdina, který v noci bojuje se zločinem a ve dne je krab 
 | _-metr_			| 
 | _-náda_			| limonáda připravená ~~ze~~ za pomoci zvířete
-| _-nium_			|
+| _-nium_			| těžký prvek objevený zvýřetem | _Gazonium_ = prvek objevený gazelou
 | _-nátor_			| robotické zvíře z budoucnosti, ztvárněné Arnoldem Schwarzeneggerem | _Shrimponátor_ - Robotická kreveta z budoucnosti hraná Arnold Schwarzeneggerem
 | _-oid_			| geologický útvar utvořený ze zvířete | _Craboid_ = může být hromada krabů tak velká, že ji musíte zanést do mapy
-| _-pád_[^pad]		| vodopád, ale místo vody padají zvířata | _Crabopád_ = místo, ze kterého ve velkém množství padají kraby | 
+| _-pád_[^pad]			| vodopád, ale místo vody padají zvířata | _Crabopád_ = místo, ze kterého ve velkém množství padají kraby | 
 | _-r_				|
 | _-ria_			|
 | _-rtila_			| mexický pokrm, připravený ~~ze~~ za pomoci zvířete | _Dogortila_ = mexický pokrm připravený ze psa
 | _-script_			| programovací jazyk, ve kterém jsou povolené pouze identifikátory zvuků, které zvíře vydává
 | _-stein_			| zvíře, které je členem německé industrial-metalové skupiny | _Dogostein_ = pes, který je členem německé industrial-metalové skupiny
-| _-steroid_ [^steroid] | zvíře, které spadlo z vesmíru | _Pigosteroid_ = prase, které spadlo z vesmíru
+| _-steroid_ [^steroid] 	| zvíře, které spadlo z vesmíru | _Pigosteroid_ = prase, které spadlo z vesmíru
 | _-stán_			| absolutistický stát řízený zvířetem | _Brdostán_ = Stát ve kterém je diktátor pták
-| _-syntéza_		|
+| _-syntéza_			|
 | _-š_[^s]			| zvíře, jehož mentální rozpoložení lze nejlépe popsat slovem *Langoš* | _Dogoš_ = pes, jehož mentální rozpoložení je langoš
 | _-t_[^t]			| robotická verze zvířete | _Catot_ = robotická kočka
-| _-téka_[^teka]	| půjčka na pořízení zvířete| _Dogotéka_ = půjčka na psa 
+| _-téka_[^teka]		| půjčka na pořízení zvířete| _Dogotéka_ = půjčka na psa 
 | _-vaná_			| 
 | _-vice_			| silný alkoholický nápoj připravený ~~ze~~ za pomoci zvířete
 | _-vník_			| 
