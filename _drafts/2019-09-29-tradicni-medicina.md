@@ -5,7 +5,7 @@ date:   2019-10-02
 category: Vědecké články
 ---
 
-Jako každá světová kultura s tisíciletou historií má i meziklasská kultura vlastní pohled na to, jakým způsobem léčit své obyvatele. Ten se ale od ostatních liší takovým způsobem, že místo tradičního symbolu medicíny byl použit symbol svěráku.
+Jako každá světová kultura s tisíciletou historií má i meziklasská kultura vlastní pohled na to, jakým způsobem léčit. Ten se ale od ostatních liší takovým způsobem, že místo tradičního symbolu medicíny byl použit symbol svěráku.
 
 Tradiční vesnická medicína prošla v průběhu času značnými změnami, jejíž kulminaci[^1] popisuje tento článek.
 
@@ -36,10 +36,14 @@ Tato metoda spočívá v pacientově uvědomění si svého problému a aplikov�
 > **Pacient:**	Ajó! To mě nenapadlo. Děkuji, pane doktore.  
 > **Doktor:**	Rád jsem Vám pomohl. Zde je Váš účet za léčbu.
 
-Úspěšnost metody necháme čtenáři na rozmyšlenou.
-
 #### Léčba prevencí
-Léčba prevencí je založena na jednoduché myšlence _nemůžou Vás bolet nohy, když je ne..._ [pro přílišnou grafičnost cenzurováno].
+Léčba prevencí je založena na jednoduché myšlence:
+
+> nemůžou Vás bolet nohy, když nemáte nohy
+
+[pro přílišnou grafičnost nebudeme podkládat žádnými záznami].
+
+Úspěšnost metody necháme čtenáři na rozmyšlenou.
 
 #### Léčba statistikou
 Metoda spočívala v tom, že doktor předepsal jako lék jednu z náhodných látek v jeho šuplíku a zaznamenával procento lidí, které se k němu s nemocí vrátilo. Ze začátku byly testovány běžné substance jako písek, piliny, či Vitana™. Ty ale bohužel neměly požadovaný léčebný účinek, proto byly později testovány i látky chemické. 
