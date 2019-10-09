@@ -12,7 +12,7 @@ clean_dict = {"á": "a",
               "š": "s",
               "ť": "t",
               "ý": "y",
-              "ž": "ž",
+              "ž": "z",
               " ": "-"}
 date = datetime.date.today().strftime("%Y-%m-%d")
 
@@ -26,9 +26,10 @@ def make_file_name(text):
     return text
 
 
+print("Welcome to MEZIKLASI article template generator")
 name = input("Article tittle: ")
 category = input("Article category: ")
-header = '---\nlayout: post\ntittle: "' + name + '"\ndate: ' + date + '\ncategory: ' + category + '\n---\n'
+header = '---\nlayout: post\ntittle: "' + name + '"\ndate: ' + date + '\ncategory: ' + category + '\n---\n\n\n'
 
 file = open("../_drafts/" + make_file_name(name), "w")
 file.write(header)
