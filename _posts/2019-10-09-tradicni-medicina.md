@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tradiční meziklasská medicína 🗜"
-date:   2019-10-02
+date:   2019-10-09
 category: Vědecké články
 ---
 
