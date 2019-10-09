@@ -222,8 +222,10 @@ body {
 	}
 	
 	footer {
-		p {text-align: center;}
-		a {font-style: italic;}
+		p {
+			text-align: center;
+			margin-bottom: 0;
+		}
 	}
 }
 

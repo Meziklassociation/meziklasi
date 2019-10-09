@@ -37,7 +37,7 @@
 					{% assign sections_sorted = site.pages | sort: 'order' %}
 					{% for p in sections_sorted %}
 						<!-- ignore empty titles and 404 page -->
-						{% if p.title and p.title != 404 %}
+						{% if p.title and p.hide_in_menu != true %}
 							{% if p.title == page.title %}
 								<span class="current-page-item"><a href="{{p.url}}">{{p.title}}</a></span>
 							{% else %}
@@ -61,6 +61,7 @@
 		
 			<footer>
 				<p>V případě nouze pište na <a href="mailto:{{ site.email }}">{{ site.email }}</a>.</p>
+				<p><a href="/meta.html">Dodatečné informace</a>.</p>
 			</footer>
 		</div>
 	</body>
