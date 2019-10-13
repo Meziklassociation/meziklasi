@@ -8,5 +8,5 @@ _site
 scripts/__pycache__/
 
 *.swp
-
 *.un~
+*.swo
