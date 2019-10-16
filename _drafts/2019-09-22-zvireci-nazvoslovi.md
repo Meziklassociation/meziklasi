@@ -30,9 +30,9 @@ Zde je několik příkladů správného převodu.
 | Koncovka | Význam | Příklad |
 |---|:-:|:-:|--:
 | _-berg_			| ledovec ve tvaru zvířete, který potopil loď s Leonardem DiCapriem | _Duckoberg_ = Ledovec ve tvaru kachny, který potopil loď Leem
-| _-bit_[^bit]			| zkamenělina předka zvířete | _birdobit_ = zkamenělina předka ptáka | 
+| _-bit_[^bit]		| zkamenělina předka zvířete | _birdobit_ = zkamenělina předka ptáka | 
 | _-burg_			| zvířecí šlechtický rod původem z Německa | _Horsoburg_ = kůň, který je šlechtic s německým původem
-| _-burger_ 			| hamburger připravený ~~ze~~ za pomoci zvířete
+| _-burger_ 		| hamburger připravený ~~ze~~ za pomoci zvířete
 | _-by_				| rugby, ale místo ~~míče~~ lidí je zvíře | _Carpoby_ = rugby, ale místo míče hrajte s kaprem
 | _-cest_			| incest spáchaný se zvířetem | _Dogoccest_ = čin, kvůli kterému Vás Vaši příbuzní přestali zvát na rodinné události 
 | _-coin_			| další naprosto zbytečná kryptoměna, která má ve znaku zvíře | _Dogocoin_ = kryptoměna, která z nějakého důvodu doopravdy existuje
@@ -40,7 +40,7 @@ Zde je několik příkladů správného převodu.
 | _-in_				| heroin s příchutí zvířete | _Whaloin_ - heroin s příchutí velryby
 | _-ko_				| umělecký směr význačný tlustými sochami zvířete | _Dogoko_ = Styl ve, kterém byla vytesána socha tlustého psa
 | _-la_				| gondola, na které se veze zvíře | _Dogola_ = Gondola na které pluje pes
-| _-lit_			|
+| _-lit_			| socha zvířete vytesána z jediného kusu kamene | _Sheeepolit_ = socha ovce vytesána z jednoho kusu nerostu
 | _-log_			| vědec zkoumající zvíře | _Shrimpolog_ = vědec zabývající se krevetami
 | _-logo_			| logo společnosti vlastněné zvířetem
 | _-logie_			| vědní obor zabývající se zvířetem | _Dogologie_ = věda zabývající se psy
@@ -53,7 +53,7 @@ Zde je několik příkladů správného převodu.
 | _-nium_			| těžký prvek objevený zvýřetem | _Gazonium_ = prvek objevený gazelou
 | _-nátor_			| robotické zvíře z budoucnosti, ztvárněné Arnoldem Schwarzeneggerem | _Shrimponátor_ - Robotická kreveta z budoucnosti hraná Arnold Schwarzeneggerem
 | _-oid_			| geologický útvar utvořený ze zvířete | _Craboid_ = může být hromada krabů tak velká, že ji musíte zanést do mapy
-| _-pád_[^pad]			| vodopád, ale místo vody padají zvířata | _Crabopád_ = místo, ze kterého ve velkém množství padají kraby | 
+| _-pád_[^pad]		| vodopád, ale místo vody padají zvířata | _Crabopád_ = místo, ze kterého ve velkém množství padají kraby | 
 | _-r_				|
 | _-ria_			|
 | _-rtila_			| mexický pokrm, připravený ~~ze~~ za pomoci zvířete | _Dogortila_ = mexický pokrm připravený ze psa
@@ -61,11 +61,11 @@ Zde je několik příkladů správného převodu.
 | _-stein_			| zvíře, které je členem německé industrial-metalové skupiny | _Dogostein_ = pes, který je členem německé industrial-metalové skupiny
 | _-steroid_ [^steroid] 	| zvíře, které spadlo z vesmíru | _Pigosteroid_ = prase, které spadlo z vesmíru
 | _-stán_			| absolutistický stát řízený zvířetem | _Brdostán_ = Stát ve kterém je diktátor pták
-| _-syntéza_			|
+| _-syntéza_		|
 | _-š_[^s]			| zvíře, jehož mentální rozpoložení lze nejlépe popsat slovem *Langoš* | _Dogoš_ = pes, jehož mentální rozpoložení je langoš
 | _-t_[^t]			| robotická verze zvířete | _Catot_ = robotická kočka
-| _-téka_[^teka]		| půjčka na pořízení zvířete| _Dogotéka_ = půjčka na psa 
-| _-vaná_			| 
+| _-téka_[^teka]	| půjčka na pořízení zvířete| _Dogotéka_ = půjčka na psa 
+| _-vaná_			|  
 | _-vice_			| silný alkoholický nápoj připravený ~~ze~~ za pomoci zvířete
 | _-vník_			| 
 | _-werk_			| zvíře, které je průkopník elektronické hudby | _Dogowerk_ = Pes experimentující se syntetizátorem
