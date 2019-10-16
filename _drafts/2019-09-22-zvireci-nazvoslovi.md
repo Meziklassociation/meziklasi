@@ -40,7 +40,7 @@ Zde je několik příkladů správného převodu.
 | _-in_				| heroin s příchutí zvířete | _Whaloin_ - heroin s příchutí velryby
 | _-ko_				| umělecký směr význačný tlustými sochami zvířete | _Dogoko_ = Styl ve, kterém byla vytesána socha tlustého psa
 | _-la_				| gondola, na které se veze zvíře | _Dogola_ = Gondola na které pluje pes
-| _-lit_			| socha zvířete vytesána z jediného kusu kamene | _Sheeepolit_ = socha ovce vytesána z jednoho kusu nerostu
+| _-lit_[^lit]		| socha zvířete vytesána z jediného kusu kamene | _Sheeepolit_ = socha ovce vytesána z jednoho kusu nerostu
 | _-log_			| vědec zkoumající zvíře | _Shrimpolog_ = vědec zabývající se krevetami
 | _-logo_			| logo společnosti vlastněné zvířetem
 | _-logie_			| vědní obor zabývající se zvířetem | _Dogologie_ = věda zabývající se psy
@@ -73,6 +73,7 @@ Zde je několik příkladů správného převodu.
 Pozn.: některé z významů položek byly na žádost organizace PETA škrtnutím po<del>u</del>praveny.
 
 [^bit]: trilobit je předek nikdy nenalezeného zvířete trilo
+[^lit]: (monolit)[https://cs.wikipedia.org/wiki/Monolit] byla původně socha mončičáka. 
 [^pad]: Viktoriiny vodopády nejsou místo, kde padají Viktorie
 [^steroid]: první Dogosteroid byla Laika
 [^s]: tato koncovka je překvapivě užitečnější a frekventovanější, než se může na první pohled zdát
