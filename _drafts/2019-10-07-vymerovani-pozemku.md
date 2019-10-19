@@ -16,8 +16,8 @@ Protože Meziklasí špatně pochopilo význam soustavy SI, tak místo měření
 Jelikož po nějaké době byla pojištění na nemovitosti příliš drahá a geodetů kvapem ubývalo, rozhodli se meziklasané změnit jednotku měření. První pokusy o použití metrů však příliš úspěšné nebyly, jelikož geodeti po ranách do hlavy z předchozích měření zapomínali, kde jsou.
 
 Řešení bylo přímočaré: použít psy [dogometr] a to z několika prostých důvodů:
-a) Bylo lehké je přivolat.
-b) Bylo těžké je ztratit.
+a) Bylo lehčí je přivolat.
+b) Bylo těžší je ztratit.
 c) Bylo téměř nemožné je omylem zapomenout v kapse od kalhot a vyprat.
 
 #### Tragédie
