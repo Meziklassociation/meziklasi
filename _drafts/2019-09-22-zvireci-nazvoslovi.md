@@ -3,6 +3,7 @@ layout:   post
 title:    "Názvosloví zvířat 🐶"
 date:     2019-09-22
 category: Vědecké články
+comments: -lýza, -vník
 ---
  
 Ve spolupráci s vědeckou komunitou, meziklasská elita vytvořila systém názvosloví zvířat, jehož účelem je za co nejkratší čas podat o zvířeti co možná nejvíce přesných informací. Tento článek zachycuje výsledek jejich snažení a rovněž slouží jako dokumentace k tomuto mezivesničně uznávanému standardu.
@@ -27,55 +28,61 @@ Zde je několik příkladů správného převodu.
 
 ### Tabulka koncovek
 
-| Koncovka | Význam | Příklad |
-|---|:-:|:-:|--:
-| _-berg_			| ledovec ve tvaru zvířete, který potopil loď s Leonardem DiCapriem | _Duckoberg_ = Ledovec ve tvaru kachny, který potopil loď Leem
-| _-bit_[^bit]		| zkamenělina předka zvířete | _birdobit_ = zkamenělina předka ptáka | 
-| _-burg_			| zvířecí šlechtický rod původem z Německa | _Horsoburg_ = kůň, který je šlechtic s německým původem
-| _-burger_ 		| hamburger připravený ~~ze~~ za pomoci zvířete
-| _-by_				| rugby, ale místo ~~míče~~ lidí je zvíře | _Carpoby_ = rugby, ale místo míče hrajte s kaprem
-| _-cest_			| incest spáchaný se zvířetem | _Dogoccest_ = čin, kvůli kterému Vás Vaši příbuzní přestali zvát na rodinné události 
-| _-coin_			| další naprosto zbytečná kryptoměna, která má ve znaku zvíře | _Dogocoin_ = kryptoměna, která z nějakého důvodu doopravdy existuje
-| _-craft_			| klon hry Minecraft, který jako vysokoškolský zápočtový program zvíře naprogramovalo | _Aquocraft_ = Minecraft naprogramovaný rybou
-| _-in_				| heroin s příchutí zvířete | _Whaloin_ - heroin s příchutí velryby
-| _-ko_				| umělecký směr význačný tlustými sochami zvířete | _Dogoko_ = Styl ve, kterém byla vytesána socha tlustého psa
-| _-la_				| gondola, na které se veze zvíře | _Dogola_ = Gondola na které pluje pes
-| _-lit_[^lit]		| socha zvířete vytesána z jediného kusu kamene | _Sheeepolit_ = socha ovce vytesána z jednoho kusu nerostu
-| _-log_			| vědec zkoumající zvíře | _Shrimpolog_ = vědec zabývající se krevetami
-| _-logo_			| logo společnosti vlastněné zvířetem
-| _-logie_			| vědní obor zabývající se zvířetem | _Dogologie_ = věda zabývající se psy
-| _-lyzér_			| paralyzér, který místo elektřinou paralyzuje ránou zvířetem | _Duckolyzér_ = Paralyzér, který vás omráčí ránou kachnou
-| _-láda_			| čokoláda ~~ze~~ ve tvaru zvířete
-| _-líza_			|
-| _-man_			| komiksový superhrdina, který jehož skrytá identita je zvýře | "Craboman" = Superhrdina, který v noci bojuje se zločinem a ve dne je krab 
-| _-metr_			| 
-| _-náda_			| limonáda připravená ~~ze~~ za pomoci zvířete
-| _-nium_			| těžký prvek objevený zvýřetem | _Gazonium_ = prvek objevený gazelou
-| _-nátor_			| robotické zvíře z budoucnosti, ztvárněné Arnoldem Schwarzeneggerem | _Shrimponátor_ - Robotická kreveta z budoucnosti hraná Arnold Schwarzeneggerem
-| _-oid_			| geologický útvar utvořený ze zvířete | _Craboid_ = může být hromada krabů tak velká, že ji musíte zanést do mapy
-| _-pád_[^pad]		| vodopád, ale místo vody padají zvířata | _Crabopád_ = místo, ze kterého ve velkém množství padají kraby | 
-| _-r_				|
-| _-ria_			|
-| _-rtila_			| mexický pokrm, připravený ~~ze~~ za pomoci zvířete | _Dogortila_ = mexický pokrm připravený ze psa
-| _-script_			| programovací jazyk, ve kterém jsou povolené pouze identifikátory zvuků, které zvíře vydává
-| _-stein_			| zvíře, které je členem německé industrial-metalové skupiny | _Dogostein_ = pes, který je členem německé industrial-metalové skupiny
-| _-steroid_ [^steroid] 	| zvíře, které spadlo z vesmíru | _Pigosteroid_ = prase, které spadlo z vesmíru
-| _-stán_			| absolutistický stát řízený zvířetem | _Brdostán_ = Stát ve kterém je diktátor pták
-| _-syntéza_		|
-| _-š_[^s]			| zvíře, jehož mentální rozpoložení lze nejlépe popsat slovem *Langoš* | _Dogoš_ = pes, jehož mentální rozpoložení je langoš
-| _-t_[^t]			| robotická verze zvířete | _Catot_ = robotická kočka
-| _-téka_[^teka]	| půjčka na pořízení zvířete| _Dogotéka_ = půjčka na psa 
-| _-vaná_			|  
-| _-vice_			| silný alkoholický nápoj připravený ~~ze~~ za pomoci zvířete
-| _-vník_			| 
-| _-werk_			| zvíře, které je průkopník elektronické hudby | _Dogowerk_ = Pes experimentující se syntetizátorem
+| Koncovka              | Význam                                                                                      |
+| ---                   | :-:                                                                                         |
+| _-berg_               | ledovec ve tvaru zvířete, který potopil loď s Leonardem DiCapriem                           |
+| _-bit_[^bit]          | zkamenělina předka zvířete                                                                  |
+| _-burg_               | zvířecí šlechtický rod původem z Německa                                                    |
+| _-burger_             | hamburger připravený za pomoci zvířete                                                      |
+| _-by_                 | rugby, ale místo míče lidí je zvíře                                                         |
+| _-coin_               | další naprosto zbytečná kryptoměna, která má ve znaku zvíře                                 |
+| _-craft_              | klon hry Minecraft, který zvíře naprogramovalo                                              |
+| _-in_                 | heroin s příchutí zvířete                                                                   |
+| _-ko_                 | umělecký směr význačný tlustými sochami zvířete                                             |
+| _-la_                 | gondola vyrobena ze zvířete                                                                 |
+| _-lit_[^lit]          | socha zvířete vytesána z jediného kusu kamene                                               |
+| _-log_                | vědec zkoumající zvíře                                                                      |
+| _-logie_              | vědní obor zabývající se zvířetem                                                           |
+| _-logo_               | logo společnosti vlastněné zvířetem                                                         |
+| _-graf_               | topologický graf ve tvaru zvířete                                                           |
+| _-lyzér_              | paralyzér, který místo elektřinou paralyzuje ránou zvířetem                                 |
+| _-láda_               | čokoláda ve tvaru zvířete                                                                   |
+| _-man_                | komiksový superhrdina, který jehož skrytá identita je zvíře                                 |
+| _-metr_               | jednotka definovaná délkou zvířete                                                          |
+| _-nium_               | těžký prvek objevený zvířetem                                                               |
+| _-náda_               | limonáda připravená ze zvířete                                                              |
+| _-nátor_              | robotické zvíře z budoucnosti, ztvárněné Arnoldem Schwarzeneggerem                          |
+| _-oid_                | geologický útvar utvořený ze zvířete                                                        |
+| _-pád_[^pad]          | vodopád, kde místo vody padají zvířata                                                      |
+| _-r_                  | provizorní vor vyroben svázáním zvířat k sobě                                               |
+| _-ria_                | bájné podzemní město ve Středozemi zkonstruované zvířetem                                   |
+| _-rtila_              | mexický pokrm, připravený ze zvířete                                                        |
+| _-script_             | programovací jazyk, ve kterém jsou povolené pouze identifikátory zvuků, které zvíře vydává  |
+| _-stein_              | zvíře, které je členem německé industrial-metalové skupiny                                  |
+| _-steroid_ [^steroid] | zvíře, které spadlo z vesmíru                                                               |
+| _-stán_               | absolutistický stát řízený zvířetem                                                         |
+| _-syntéza_            | na zeleno obarvené zvíře, které si myslí, že je kytka a nikdo jej nemůže přesvědčit o opaku |
+| _-t_[^t]              | robotická verze zvířete                                                                     |
+| _-téka_[^teka]        | půjčka na pořízení zvířete                                                                  |
+| _-vaná_               | vybíjená hraná se zvířaty                                                                   |
+| _-vice_               | silný alkoholický nápoj připravený ze zvířete                                               |
+| _-werk_               | zvíře, které je průkopník elektronické hudby                                                |
+| _-š_[^s]              | zvíře, jehož mentální rozpoložení lze nejlépe popsat slovem *Langoš*                        |
+
+### Příklady použití ve větách
+bla bla bla:
+- Už jsi zkusila ten Whaloin? Ne, ale cena Dogoinu teď docela roste!
+- Ve dne obyčejný úřední krab, v noci hrdina bojující se zločinem -- Craboman!
+- Jen si tak kopu na zahradě a vykopu duckoid...
+- Slyšel jsi už ten novej singl od Squidosteinu?
+- U Snailografu nemá smysl hledat [minimální kostru](https://en.wikipedia.org/wiki/Minimum_spanning_tree), jelikož je bezobratlý a trvalo by to stejně moc dlouho.
 
 Pozn.: některé z významů položek byly na žádost organizace PETA škrtnutím po<del>u</del>praveny.
 
 [^bit]: trilobit je předek nikdy nenalezeného zvířete trilo
-[^lit]: (monolit)[https://cs.wikipedia.org/wiki/Monolit] byla původně socha mončičáka. 
+[^lit]: (monolit)[https://cs.wikipedia.org/wiki/Monolit] byla původně socha mončičáka
 [^pad]: Viktoriiny vodopády nejsou místo, kde padají Viktorie
 [^steroid]: první Dogosteroid byla Laika
 [^s]: tato koncovka je překvapivě užitečnější a frekventovanější, než se může na první pohled zdát
 [^t]: jediné zvíře rozbíjející tuto koncovku je robin, protože robotický robin je _robot_... což může být v některých situacích matoucí
-[^teka]: hypotéka v původním slova smyslu byla půjčka na hrocha, jenže díky postupnému ústupu hrochů do hor se tak začaly označovat půjčky na jiné drahé věci
+[^teka]: hypotéka v původním slova smyslu byla nákladná půjčka na hrocha, která kvůli postupnému ústupu hrochů do hor a do seriálů [KSP](https://ksp.mff.cuni.cz/) přejala význam nákladné půjčky
