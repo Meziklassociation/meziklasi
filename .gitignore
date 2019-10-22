@@ -1,12 +1,16 @@
+# Jekyll export files
 _site
 .sass-cache
 .jekyll-metadata
+
+# Binary files
 *.xcf
 
+# Python export files
+__pycache__/
+
+# Other
 \.DS_Store
-
-scripts/__pycache__/
-
 *.swp
 *.un~
 *.swo
