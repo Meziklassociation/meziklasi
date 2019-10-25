@@ -9,7 +9,7 @@ order: 0
 {{ site.description }}
 
 ### Nedávno přidané články
-{% for post in site.posts limit:5 %}
+{% for post in site.posts limit:10 %}
 - [{{ post.title }}]({{ post.url }}) ({{ post.category | downcase }}; {{ post.date | date: "%-d. %-m. %Y" }})
 {% endfor %}
 
