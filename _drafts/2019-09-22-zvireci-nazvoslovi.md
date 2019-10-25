@@ -37,6 +37,7 @@ Zde je několik příkladů správného převodu.
 | _-by_                 | rugby, ale místo míče je zvíře                               		                          |
 | _-coin_               | další naprosto zbytečná kryptoměna, která má ve znaku zvíře                                 |
 | _-craft_              | klon hry Minecraft, který zvíře naprogramovalo                                              |
+| _-graf_               | topologický graf ve tvaru zvířete                                                           |
 | _-in_                 | heroin s příchutí zvířete                                                                   |
 | _-ko_                 | umělecký směr význačný tlustými sochami zvířete                                             |
 | _-la_                 | gondola vyrobena ze zvířete                                                                 |
@@ -44,10 +45,9 @@ Zde je několik příkladů správného převodu.
 | _-log_                | vědec zkoumající zvíře                                                                      |
 | _-logie_              | vědní obor zabývající se zvířetem                                                           |
 | _-logo_               | logo společnosti vlastněné zvířetem                                                         |
-| _-graf_               | topologický graf ve tvaru zvířete                                                           |
 | _-lyzér_              | paralyzér, který místo elektřinou paralyzuje ránou zvířetem                                 |
 | _-láda_               | čokoláda ve tvaru zvířete                                                                   |
-| _-man_                | komiksový superhrdina, který jehož skrytá identita je zvíře                                 |
+| _-man_                | komiksový superhrdina, jehož skrytá identita je zvíře                                 	  |
 | _-metr_               | jednotka definovaná délkou zvířete                                                          |
 | _-nium_               | těžký prvek objevený zvířetem                                                               |
 | _-náda_               | limonáda připravená ze zvířete                                                              |
@@ -66,6 +66,7 @@ Zde je několik příkladů správného převodu.
 | _-téka_[^teka]        | půjčka na pořízení zvířete                                                                  |
 | _-vaná_               | vybíjená hraná se zvířaty                                                                   |
 | _-vice_               | silný alkoholický nápoj připravený ze zvířete                                               |
+| _-vna_				| místo, kde si půjčíte zvíře																  |
 | _-werk_[^werk]        | zvíře, které je průkopník elektronické hudby                                                |
 | _-š_[^s]              | zvíře, jehož mentální rozpoložení lze nejlépe popsat slovem *Langoš*                        |
 
@@ -79,16 +80,17 @@ Zde naleznete několik vět, které se podařilo autorům názvosloví zachytit 
 - U Snailografu nemá smysl hledat [minimální kostru](https://en.wikipedia.org/wiki/Minimum_spanning_tree), jelikož je bezobratlý a trvalo by to stejně moc dlouho.
 - Křižník Játanic se potopil po nárazu do brdobergu.
 - Požádal mě o ruku při romantické plavbě na sheepole.
-- (Dogocoin)[https://en.wikipedia.org/wiki/Dogecoin] je kryptoměna, která z nějakého neznámemého důvodu opravdu existuje.
+- [Dogocoin](https://en.wikipedia.org/wiki/Dogecoin) je kryptoměna, která z nějakého neznámemého důvodu opravdu existuje.
 - Od minulého týdne piji dogonádu s dužinou.
+- Padaj mi kalhoty, protože jsem musel toho hada, kterýho používám místo pásku vrátit do snakovny.
 
 #### Pozn.: některé z významů položek byly na žádost organizace PETA škrtnutím po<del>u</del>praveny.
 
 [^bit]: trilobit je předek nikdy nenalezeného zvířete trilo
-[^lit]: (monolit)[https://cs.wikipedia.org/wiki/Monolit] byla původně socha (mončičáka)[https://cs.wikipedia.org/wiki/Mon%C4%8Di%C4%8D%C3%A1k]
+[^lit]: [monolit](https://cs.wikipedia.org/wiki/Monolit) byla původně socha [mončičáka](https://cs.wikipedia.org/wiki/Mon%C4%8Di%C4%8D%C3%A1k)
 [^pad]: Viktoriiny vodopády nejsou místo, kde padají Viktorie
 [^steroid]: první Dogosteroid byla Laika
 [^s]: tato koncovka je překvapivě užitečnější a frekventovanější, než se může na první pohled zdát
-[^t]: jediné zvíře rozbíjející tuto koncovku je Robin, protože robotický robin je _robot_... což může být v některých situacích matoucí
-[^werk]: Název skupiny (Kraftwerk)[https://en.wikipedia.org/wiki/Kraftwerk] je jen zkomolenina slova Crabowerk
+[^t]: jediné zvíře rozbíjející tuto koncovku je Robin, protože robotický Robin je _robot_... což může být v některých situacích matoucí
+[^werk]: Název skupiny [Kraftwerk](https://en.wikipedia.org/wiki/Kraftwerk) je jen zkomolenina slova Crabowerk
 [^teka]: hypotéka v původním slova smyslu byla nákladná půjčka na hrocha, která kvůli postupnému ústupu hrochů do hor a do seriálů [KSP](https://ksp.mff.cuni.cz/) přejala význam nákladné půjčky
