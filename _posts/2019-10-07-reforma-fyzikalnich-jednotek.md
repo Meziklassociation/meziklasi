@@ -16,9 +16,10 @@ Protože Meziklasí špatně pochopilo význam soustavy SI, tak místo měření
 Jelikož po nějaké době byla pojištění na nemovitosti příliš drahá a geodetů kvapem ubývalo, rozhodli se meziklasané změnit jednotku měření. První pokusy o použiti ze světa importovaných metrů však příliš úspěšné nebyly, jelikož geodeti po ranách do hlavy z předchozích měření zapomínali, kde je odložili.
 
 Řešení bylo přímočaré: použít psy [dogometr] a to z několika prostých důvodů:
-a) Bylo lehčí je přivolat.
-b) Bylo těžší je ztratit.
-c) Bylo téměř nemožné je omylem zapomenout v kapse od kalhot a vyprat.
+
+a) Bylo lehčí je přivolat.  
+b) Bylo těžší je ztratit.  
+c) Bylo téměř nemožné je omylem zapomenout v kapse od kalhot a vyprat.  
 
 ### Zánik 
 Bohužel se našli i tací, kteří tento obdivuhodný vynález chtěli zneužít pro svůj vlastní prospěch. Jelikož délka psa není (kromě Meziklasí, kde je uměle zkracují) konstantní, tak si tací naimportovali psy z okolních vesnic -- ti již standardní 3 metry neměřili, což celý systém narušilo. Potom se často stávalo, že když si kupujete provaz tak místo 3 standardních dogometrů dostanete 3 délky čivavy a naúčtují vám 3 délky chrtí. Nebo když si kupujete štangli salámu, zaplatíte jednu jezevčí délku, ale odnesete si jenom obvod pasu.
