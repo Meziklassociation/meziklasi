@@ -229,6 +229,10 @@ body {
 	}
 }
 
+/*SPOILER*/
+
+.spoiler:not(:hover), .spoiler:not(:hover) * { color: transparent }
+.spoiler:not(:hover) * { background: transparent }
 
 /* COLOR THEME SETTINGS */
 body {
