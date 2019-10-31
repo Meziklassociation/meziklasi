@@ -5,12 +5,10 @@ class Spoiler < Liquid::Tag
   end
 
   def render(context)
-	output = "<blockquote class='spoiler'>"
-	output += @input
-	output += "</blockquote>"
-
+	output = "<blockquote class='spoiler'>" + @input + "</blockquote>" 
+	
     return  output;
   end
 
 end
-Liquid::Template.register_tag('spo', Spoiler)
+Liquid::Template.register_tag('spoiler', Spoiler)
