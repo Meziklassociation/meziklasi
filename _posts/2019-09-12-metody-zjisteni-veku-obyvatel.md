@@ -3,6 +3,7 @@ layout: post
 title: "Metody zjištění věku obyvatel 👨👩"
 date: 2019-09-12 09:00:00 +0200
 category: Vědecké články
+description: "Seriózní vědecký článek o měření věku obyvatel"
 ---
 
 Při demografickém průzkumu terénu narazili první objevitelé tehdy ještě neznámého světa, Meziklasí, na problém. Přišli totiž na to, že místní domorodci neuznávají existenci času a zároveň neumí počítat nic jiného než žáby (a ty jen na prstech, tedy do sedmi). Z tohoto důvodu nebylo možné tradičními metodami určit jejich věk. 

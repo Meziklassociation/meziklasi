@@ -3,6 +3,7 @@ layout: post
 title:  "Tradiční meziklasská medicína 🗜"
 date:   2019-10-09
 category: Vědecké články
+description: "Meziklaská tradiční medicína je trošku netradiční v porovnání s jakoukoli jinou. Zde se dozvíte proč."
 ---
 
 Jako každá světová kultura s tisíciletou historií má i ta meziklasská vlastní názor na to, jakým způsobem léčit nemocné, zraněné a Robina. Ten se ale od ostatních liší takovým způsobem, že místo tradičního symbolu medicíny byl raději použit symbol svěráku.

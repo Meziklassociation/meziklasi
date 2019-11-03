@@ -3,6 +3,7 @@ layout: post
 title:  "Migrace radioaktivních žab 🐸"
 date:   2019-08-25
 category: Novinky
+description: "Reportáž o jedné z nejvíznamějších pravidelných událostí v Meziklasí"
 ---
 
 Dne 19. 8. 2019 ve vesnici proběhla každoroční migrace radioaktivních žab (Froggus radioactivus), které se ve stovkách vyrojily z uhelných dolů severní části vesnice a svižně se odkutálely pryč. Migrují na zimu do teplých krajin, jelikož v Meziklasí začínají pro tento druh nesnesitelné tuhé mrazy a protože spotřebovaly zásoby uhlí a musí počkat, než opět doroste.

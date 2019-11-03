@@ -3,6 +3,7 @@ layout: post
 title:  "Mezikvašák 🥒"
 date:   2019-08-19
 category: Recepty
+description: "Chcete si připravit tradiční mezikvašák? Ikdyž nám není jasné proč, tak zde máte recept, který Vám v tom pomůže"
 ---
 
 ### Ingredience
