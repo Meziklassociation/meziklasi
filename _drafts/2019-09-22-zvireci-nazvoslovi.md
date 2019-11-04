@@ -3,6 +3,7 @@ layout:   post
 title:    "Názvosloví zvířat 🐶"
 date:     2019-09-22
 category: Vědecké články
+description: "Taky Vám připadá, že věta 'Ten pes má v hlavě langoš' je moc dlouhá na to jak jí říkáte často ? Nejste jediní."
 comments: -lýza, -vník
 ---
  
@@ -23,7 +24,7 @@ Zde je několik příkladů správného převodu.
 - Pes → _Dogo_
 - Žirafa → _Giro_
 
-Pozn.: základ pro rybu by měl podle pravidel být _fisho_, ale pro lepší výslovnost lze rovněž použít _aquo_.
+_Poznámka:_ základ pro rybu by měl podle pravidel být _fisho_, ale pro lepší výslovnost lze rovněž použít _aquo_.
 
 ### Tabulka koncovek
 
@@ -48,11 +49,14 @@ Pozn.: základ pro rybu by měl podle pravidel být _fisho_, ale pro lepší vý
 | _-láda_              | čokoláda ve tvaru zvířete                                                                   |
 | _-man_               | komiksový superhrdina, jehož skrytá identita je zvíře                                       |
 | _-metr_              | jednotka definovaná délkou zvířete                                                          |
+| _-mor_			   | stvoření ve fantazi románu Joanne Rowlingové, která o něm zpětně prohásí, že je gay		 |
 | _-nium_              | těžký prvek objevený zvířetem                                                               |
 | _-náda_              | limonáda připravená ze zvířete                                                              |
 | _-nátor_             | robotické zvíře z budoucnosti, ztvárněné Arnoldem Schwarzeneggerem                          |
+| _-naut_[^naut]	   | zvíře, které je astronaut																	 |
 | _-oid_               | geologický útvar utvořený ze zvířete                                                        |
 | _-pád_[^pad]         | vodopád, kde místo vody padají zvířata                                                      |
+| _-pogo_			   | pogo, kterého se účastní zvíře																 |
 | _-r_                 | provizorní vor vyroben svázáním zvířat k sobě                                               |
 | _-ria_               | bájné podzemní město ve Středozemi zkonstruované zvířetem                                   |
 | _-rtila_             | mexický pokrm, připravený ze zvířete                                                        |
@@ -82,13 +86,14 @@ Zde naleznete několik vět, které se podařilo autorům názvosloví zachytit 
 - Padaj mi kalhoty, protože jsem musel toho hada, kterýho používám místo pásku vrátit do snakovny.
 
 
-Pozn.: některé z významů položek byly na žádost organizace PETA škrtnutím po<del>u</del>praveny.
+Pozn.: některé z významů položek byly na žádost organizace PETA po<del>u</del>praveny.
 
 [^bit]: trilobit je předek nikdy nenalezeného zvířete trilo
-[^lit]: [monolit](https://cs.wikipedia.org/wiki/Monolit) byla původně socha mončičáka
+[^lit]: [monolit](https://cs.wikipedia.org/wiki/Monolit) byla původně socha [mončičáka](https://cs.wikipedia.org/wiki/Mon%C4%8Di%C4%8D%C3%A1k)
 [^pad]: Viktoriiny vodopády nejsou místo, kde padají Viktorie
 [^s]: tato koncovka je překvapivě užitečnější a frekventovanější, než se může na první pohled zdát
-[^steroid]: první Dogosteroid byla Laika
-[^t]: jediné zvíře rozbíjející tuto koncovku je robin, protože robotický robin je _robot_... což může být v některých situacích matoucí
+[^naut]: první Dogonaut byla Laika
+[^steroid]: první Dogosteroid byla bohužel taky Laika
+[^t]: jediné zvíře rozbíjející tuto koncovku je Robin, protože robotický Robin je _robot_... což může být v některých situacích matoucí
 [^teka]: hypotéka v původním slova smyslu byla nákladná půjčka na hrocha, která kvůli postupnému ústupu hrochů do hor a do seriálů [KSP](https://ksp.mff.cuni.cz/) přejala význam nákladné půjčky
 [^werk]: Název skupiny [Kraftwerk](https://en.wikipedia.org/wiki/Kraftwerk) je jen zkomolenina slova Crabowerk
