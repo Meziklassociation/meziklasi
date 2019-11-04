@@ -3,6 +3,7 @@ layout: post
 title:  "Vanilkový dort s třešní 🍰"
 date:   2019-09-01
 category: Recepty
+description: "Pokud se nebojíte složitých receptů, tak jste ještě nečetli tento."
 ---
 
 ### ! Varování !
