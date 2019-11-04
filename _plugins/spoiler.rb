@@ -5,7 +5,7 @@ class Spoiler < Liquid::Tag
   end
 
   def render(context)
-	output = "<blockquote class='spoiler'>" + @input + "</blockquote>" 
+	output = "<div><div class='spoiler'>" + @input + "</div></div>" 
 	
     return  output;
   end
