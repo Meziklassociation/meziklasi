@@ -4,7 +4,7 @@ import os
 
 date = datetime.date.today().strftime("%Y-%m-%d")
 
-print("Welcome to MEZIKLASI article template generator")
+print("Welcome to MEZIKLASI article markdown template generator")
 
 name = input("Article title: ")
 category = input("Article category: ")
