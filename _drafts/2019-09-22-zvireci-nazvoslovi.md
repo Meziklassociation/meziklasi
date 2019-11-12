@@ -4,7 +4,6 @@ title:    "Názvosloví zvířat 🐶"
 date:     2019-09-22
 category: Vědecké články
 description: "Taky Vám připadá, že věta 'Ten pes má v hlavě langoš' je moc dlouhá na to jak jí říkáte často ? Nejste jediní."
-comments: -vník
 ---
  
 Ve spolupráci s vědeckou komunitou, meziklasská elita vytvořila systém názvosloví zvířat, jehož účelem je za co nejkratší čas podat o zvířeti co možná nejvíce přesných informací. Tento článek zachycuje výsledek jejich snažení a rovněž slouží jako dokumentace k tomuto mezivesničně uznávanému standardu.
@@ -19,10 +18,11 @@ Převést jméno zvířete na základní tvar názvosloví lze provést v někol
 
 Zde je několik příkladů správného převodu.
 
-- Ptakopysk → _Plato_
-- Slon → _Elo_
-- Pes → _Dogo_
-- Žirafa → _Giro_
+> - Ptakopysk → _Plato_
+> - Slon → _Elo_
+> - Pes → _Dogo_
+> - Žirafa → _Giro_
+
 
 _Poznámka:_ základ pro rybu by měl podle pravidel být _fisho_, ale pro lepší výslovnost lze rovněž použít _aquo_.
 
@@ -72,7 +72,7 @@ _Poznámka:_ základ pro rybu by měl podle pravidel být _fisho_, ale pro lepš
 | _-vaná_              | vybíjená hraná se zvířaty                                                                   |
 | _-vice_              | silný alkoholický nápoj připravený ze zvířete                                               |
 | _-vna_               | místo, kde si lze vypůjčit zvíře                                                            |
-| _-vník_			   | 																							 |
+| _-vník_			   | strom strom, který má zvíře jako plod 														 |
 | _-werk_[^werk]       | zvíře, které je průkopník elektronické hudby                                                |
 
 ### Příklady použití ve větách
