@@ -232,8 +232,8 @@ body {
 /*SPOILER*/
 
 .spoiler:not(:hover), .spoiler:not(:hover) * {
-	color: #B0C4DE;
-	background-color: #B0C4DE
+	color: 				#B0C4DE;
+	background-color:   #B0C4DE
 }
 .spoiler:not(:hover) * {
 	background: transparent;
@@ -242,22 +242,24 @@ body {
 /* TABLE */
 
 table {
-	font-family: verdana,arial,sans-serif;
-	color:#333333;
-	border-width: 1px;
-	border-color: #666666;
+	font-family: 	verdana,arial,sans-serif;
+	color:			#333333;
+	border-width: 	1px;
+	border-color: 	#666666;
 	border-collapse: collapse;
+	padding: 3em;
+	margin: 0;
 }
 th {
-	border-width: 1px;
-	padding: 8px;
-	border-style: solid;
-	border-color: #666666;
+	border-width: 	1px;
+	padding: 		8px;
+	border-style: 	solid;
+	border-color: 	#666666;
 	background-color: #dedede;
 }
 td {
 	border-width: 1px;
-	padding: 8px;
+	padding: 	  8px;
 	border-style: solid;
 	border-color: #666666;
 	background-color: #ffffff;
