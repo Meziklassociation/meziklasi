@@ -1,6 +1,6 @@
 ---
 layout: post
-tittle: "Nález historické mapy"
+tittle: "Nález historické mapy 🗺"
 date: 2019-10-27
 category: Novinky
 ---
@@ -12,7 +12,9 @@ V nedávné době jsme mohli být svědky nálezu jednoho z nejvýznamnějších
 
 Radiouhlíková metoda určila datum vzniku na rok 2003, což historiky překvapilo. Nikdo z nich totiž nevěřil, že už v té době Meziklasí disponovalo technologiemi na výrobu mapy. Také je to první záznam toho, že Meziklasané se v minulosti zajímali i o okolí mimo vesnici.
 
-Originál nalezené mapy bude vystaven v meziklasském muzeu hned jakmile ho dostaví. Přesné datum dokončení stavby vedení vesnice určí až poté co stavba vůbec začne.
+Originál nalezené mapy bude vystaven v meziklasském muzeu hned jakmile ho dostaví. Odhad data dokončení stavby vedení vesnice určí až poté co stavba vůbec začne.
+
+V dnešní době ovšem existují již mnohem podrobnější mapy. Například mapy poskytované společností Google, obsahují satelistní snímky i přesnou polohu [Meziklasského moře][meziklasske-more].
 
 [mapa]: /assets/img/historicka-mapa.png
 [meziklasske-more]: https://goo.gl/maps/cnCgeULtFMbrcEYa7
