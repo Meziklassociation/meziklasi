@@ -21,8 +21,7 @@ Zde je několik příkladů správného převodu.
 > - Ptakopysk → _Plato_
 > - Slon → _Elo_
 > - Pes → _Dogo_
-> - Žirafa → _Giro_
-
+> - Žirafa → _Giro_    
 
 _Poznámka:_ základ pro rybu by měl podle pravidel být _fisho_, ale pro lepší výslovnost lze rovněž použít _aquo_.
 
@@ -31,16 +30,19 @@ _Poznámka:_ základ pro rybu by měl podle pravidel být _fisho_, ale pro lepš
 | Koncovka             | Význam                                                                                      |
 | ---                  | :-:                                                                                         |
 | _-berg_              | ledovec ve tvaru zvířete, který potopil loď s Leonardem DiCapriem                           |
+| _-bijce_			   | lovec specializující se na zvíře															 |
 | _-bit_[^bit]         | zkamenělina předka zvířete                                                                  |
 | _-burg_              | zvířecí šlechtický rod původem z Německa                                                    |
 | _-burger_            | hamburger připravený ze zvířete                                                             |
 | _-by_                | rugby, ale místo míče je zvíře                                                              |
 | _-coin_              | další naprosto zbytečná kryptoměna, která má ve znaku zvíře                                 |
+| _-con_			   | konference organizovaná pro fanatické fanoušky zvířete										 |
 | _-craft_             | klon hry Minecraft, který zvíře naprogramovalo                                              |
 | _-graf_              | topologický graf ve tvaru zvířete                                                           |
 | _-in_                | heroin s příchutí zvířete                                                                   |
 | _-ko_                | umělecký směr význačný tlustými sochami zvířete                                             |
 | _-la_                | gondola vyrobena ze zvířete                                                                 |
+| _-land_			   | zábavný park se zvířecí tématikou															 |
 | _-lit_[^lit]         | socha zvířete vytesána z jediného kusu kamene                                               |
 | _-log_               | vědec zkoumající zvíře                                                                      |
 | _-logie_             | vědní obor zabývající se zvířetem                                                           |
@@ -75,10 +77,12 @@ _Poznámka:_ základ pro rybu by měl podle pravidel být _fisho_, ale pro lepš
 | _-vník_			   | strom strom, který má zvíře jako plod 														 |
 | _-werk_[^werk]       | zvíře, které je průkopník elektronické hudby                                                |
 
+  
+
 ### Příklady použití ve větách
 
 Zde naleznete několik vět, které se podařilo autorům názvosloví zachytit v každodenních rozhovorech meziklasských obyvatel:
-- Už jsi zkusila ten Whalocoin? Ne, ale cena Dogocoinu teď docela roste.
+- Už jsi zkusila ten Whaloin? Ne, ale cena Dogoinu teď docela roste.
 - Ve dne obyčejný úřední krab, v noci hrdina bojující se zločinem -- Craboman!
 - Křižník Játanic se potopil po nárazu do birdobergu.
 - Jen si tak kopu na zahradě a vykopu duckoid...
@@ -89,6 +93,8 @@ Zde naleznete několik vět, které se podařilo autorům názvosloví zachytit 
 
 
 Pozn.: některé z významů položek byly na žádost organizace PETA po<del>u</del>praveny.
+
+ 
 
 [^bit]: trilobit je předek nikdy nenalezeného zvířete trilo
 [^lit]: [monolit](https://cs.wikipedia.org/wiki/Monolit) byla původně socha [mončičáka](https://cs.wikipedia.org/wiki/Mon%C4%8Di%C4%8D%C3%A1k)
