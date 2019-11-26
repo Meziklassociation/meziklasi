@@ -4,6 +4,7 @@ title:    "Názvosloví zvířat 🐶"
 date:     2019-09-22
 category: Vědecké články
 description: "Taky Vám připadá, že věta 'Ten pes má v hlavě langoš' je moc dlouhá na to jak jí říkáte často ? Nejste jediní."
+note: -op
 ---
  
 Ve spolupráci s vědeckou komunitou, meziklasská elita vytvořila systém názvosloví zvířat, jehož účelem je za co nejkratší čas podat o zvířeti co možná nejvíce přesných informací. Tento článek zachycuje výsledek jejich snažení a rovněž slouží jako dokumentace k tomuto mezivesničně uznávanému standardu.
@@ -35,6 +36,7 @@ _Poznámka:_ základ pro rybu by měl podle pravidel být _fisho_, ale pro lepš
 | _-burg_              | zvířecí šlechtický rod původem z Německa                                                    |
 | _-burger_            | hamburger připravený ze zvířete                                                             |
 | _-by_                | rugby, ale místo míče je zvíře                                                              |
+| _-cest_			   | čin kvůli kterému Vás Vaši příbuzní přestali zvát na rodiné události						 |
 | _-coin_              | další naprosto zbytečná kryptoměna, která má ve znaku zvíře                                 |
 | _-con_			   | konference organizovaná pro fanatické fanoušky zvířete										 |
 | _-craft_             | klon hry Minecraft, který zvíře naprogramovalo                                              |
@@ -53,6 +55,7 @@ _Poznámka:_ základ pro rybu by měl podle pravidel být _fisho_, ale pro lepš
 | _-man_               | komiksový superhrdina, jehož skrytá identita je zvíře                                       |
 | _-metr_              | jednotka definovaná délkou zvířete                                                          |
 | _-mor_			   | stvoření ve fantazi románu Joanne Rowlingové, která o něm zpětně prohásí, že je gay		 |
+| _-mut_ 			   | zvíře s kly																				 |
 | _-nium_              | těžký prvek objevený zvířetem                                                               |
 | _-náda_              | limonáda připravená ze zvířete                                                              |
 | _-nátor_             | robotické zvíře z budoucnosti, ztvárněné Arnoldem Schwarzeneggerem                          |
