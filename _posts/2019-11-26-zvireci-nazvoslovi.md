@@ -1,9 +1,9 @@
 ---
 layout:   post
 title:    "Názvosloví zvířat 🐶"
-date:     2019-09-22
+date:     2019-11-26
 category: Vědecké články
-description: "Taky Vám připadá, že věta 'Ten pes má v hlavě langoš' je moc dlouhá na to jak jí říkáte často ? Nejste jediní."
+description: "Taky Vám připadá, že věta 'Ten pes má v hlavě langoš' je moc dlouhá na to jak jí říkáte často? Nejste jediní."
 note: -op
 ---
  
@@ -96,8 +96,6 @@ Zde naleznete několik vět, které se podařilo autorům názvosloví zachytit 
 
 
 Pozn.: některé z významů položek byly na žádost organizace PETA po<del>u</del>praveny.
-
- 
 
 [^bit]: trilobit je předek nikdy nenalezeného zvířete trilo
 [^lit]: [monolit](https://cs.wikipedia.org/wiki/Monolit) byla původně socha [mončičáka](https://cs.wikipedia.org/wiki/Mon%C4%8Di%C4%8D%C3%A1k)
