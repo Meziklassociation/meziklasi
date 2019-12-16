@@ -10,9 +10,9 @@ V nedávné době jsme mohli být svědky nálezu jednoho z nejvýznamnějších
 
 ![Scan nalezené historické mapy][mapa]
 
-Radiouhlíková metoda určila datum vzniku na rok 2003, což historiky překvapilo. Nikdo z nich totiž nevěřil, že už v té době Meziklasí disponovalo technologiemi na výrobu mapy. Také je to první záznam toho, že Meziklasané se v minulosti zajímali i o okolí mimo vesnici.
+Radiouhlíková metoda určila datum vzniku na rok 2003, což historiky překvapilo. Nikdo z nich totiž nevěřil, že už v té době Meziklasí disponovalo technologiemi na výrobu této mapy. Také je to první záznam toho, že Meziklasané se v minulosti zajímali i o okolí mimo vesnici.
 
-Originál nalezené mapy bude vystaven v meziklasském muzeu hned jakmile ho dostaví. Odhad data dokončení stavby vedení vesnice určí až poté co stavba vůbec začne.
+Originál nalezené mapy bude vystaven v meziklasském muzeu hned jakmile bude dostavěno. Odhad data dokončení stavby vedení vesnice určí až poté co stavba vůbec započne.
 
 V dnešní době ovšem existují již mnohem podrobnější mapy. Například mapy poskytované společností Google, obsahují satelistní snímky i přesnou polohu [Meziklasského moře][meziklasske-more].
 
