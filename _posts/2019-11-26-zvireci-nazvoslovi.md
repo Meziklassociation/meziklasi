@@ -31,38 +31,40 @@ _Poznámka:_ základ pro rybu by měl podle pravidel být _fisho_, ale pro lepš
 | Koncovka             | Význam                                                                                      |
 | ---                  | :-:                                                                                         |
 | _-berg_              | ledovec ve tvaru zvířete, který potopil loď s Leonardem DiCapriem                           |
-| _-bijce_			          | lovec specializující se na konkrétní zvíře															                                   |
+| _-bijce_			   | lovec specializující se na konkrétní zvíře													 |
 | _-bit_[^bit]         | zkamenělina předka zvířete                                                                  |
 | _-burg_              | zvířecí šlechtický rod původem z Německa                                                    |
 | _-burger_            | hamburger připravený ze zvířete                                                             |
 | _-by_                | rugby, ale místo míče je zvíře                                                              |
-| _-cest_			           | čin, kvůli kterému Vás Vaši příbuzní přestali zvát na rodinné události						                |
+| _-cest_			   | čin, kvůli kterému Vás Vaši příbuzní přestali zvát na rodinné události						 |
 | _-coin_              | další naprosto zbytečná kryptoměna, která má ve znaku zvíře                                 |
-| _-con_			            | konference organizovaná pro fanatické fanoušky zvířete										                            |
+| _-con_			   | konference organizovaná pro fanatické fanoušky zvířete										 |
 | _-craft_             | klon hry Minecraft, který naprogramovalo zvíře                                              |
+| _-cern_ 			   | urychlovač zvířat, který slouží k vědeckým účelům											 |
 | _-graf_              | topologický graf ve tvaru zvířete                                                           |
 | _-in_                | heroin s příchutí zvířete                                                                   |
 | _-ko_                | umělecký směr význačný tlustými sochami zvířete                                             |
 | _-la_                | gondola vyrobená ze zvířete                                                                 |
-| _-land_			           | zábavný park se zvířecí tématikou															                                            |
+| _-land_			   | zábavný park se zvířecí tématikou															 |
 | _-lit_[^lit]         | socha zvířete vytesaná z jediného kusu kamene                                               |
 | _-log_               | vědec zkoumající určité zvíře                                                               |
 | _-logie_             | vědní obor zabývající se daným zvířetem                                                     |
 | _-logo_              | logo společnosti vlastněné zvířetem                                                         |
 | _-lyzér_             | paralyzér, který místo elektřinou paralyzuje ránou zvířetem                                 |
-| _-lýza_			           | chemický postup, kterým dokážete přítomnost zvířete v roztoku								                       |
+| _-lýza_			   | chemický postup, kterým dokážete přítomnost zvířete v roztoku								 |
 | _-láda_              | čokoláda ve tvaru zvířete                                                                   |
 | _-man_               | komiksový superhrdina, jehož skrytá identita je zvíře                                       |
+| _-metal_			   | další z nepřebereného množství subžánrů metalu |
 | _-metr_              | jednotka definovaná délkou zvířete                                                          |
-| _-mor_			            | stvoření ve fantasy románu Joanne Rowlingové, která o něm zpětně prohásí, že je gay		       |
-| _-mut_ 			           | zvíře s kly																			                                                            	 |
+| _-mor_			   | stvoření ve fantasy románu Joanne Rowlingové, která o něm zpětně prohásí, že je gay		 |
+| _-mut_ 			   | zvíře s kly																			     |
 | _-nium_              | těžký prvek objevený zvířetem                                                               |
 | _-náda_              | limonáda připravená ze zvířete                                                              |
 | _-nátor_             | robotické zvíře z budoucnosti ztvárněné Arnoldem Schwarzeneggerem                           |
-| _-naut_[^naut]	      | zvíře, které je astronaut																                                                 	 |
+| _-naut_[^naut]	   | zvíře, které je astronaut																     |
 | _-oid_               | geologický útvar utvořený ze zvířete                                                        |
 | _-pád_[^pad]         | vodopád, kde místo vody padají zvířata                                                      |
-| _-pogo_			           | pogo, kterého se účastní zvíře																                                              |
+| _-pogo_			   | pogo, kterého se účastní zvíře		                                              			 |
 | _-r_                 | provizorní vor vyrobený svázáním zvířat k sobě                                              |
 | _-ria_               | bájné podzemní město ve Středozemi zkonstruované zvířetem                                   |
 | _-rtila_             | mexický pokrm připravený ze zvířete                                                         |
@@ -74,13 +76,16 @@ _Poznámka:_ základ pro rybu by měl podle pravidel být _fisho_, ale pro lepš
 | _-š_[^s]             | zvíře, jehož mentální rozpoložení lze nejlépe popsat slovem *Langoš*                        |
 | _-t_[^t]             | robotická verze zvířete                                                                     |
 | _-téka_[^teka]       | půjčka na pořízení zvířete                                                                  |
+| _-tron_ 			   | elementární částice objevená řízenou srážkou zvířat ve zvířecím urychlovači				 |
 | _-vaná_              | vybíjená hraná se zvířaty                                                                   |
 | _-vice_              | silný alkoholický nápoj připravený ze zvířete                                               |
 | _-vna_               | místo, kde si lze vypůjčit zvíře                                                            |
-| _-vník_			           | strom, který má jako plod zvíře 														                                              |
+| _-vník_			   | strom, který má jako plod zvíře 												     		 |
 | _-werk_[^werk]       | zvíře, které je průkopníkem elektronické hudby                                              |
 
   
+Pozn.: některé z významů položek byly na žádost organizace PETA po<del>u</del>praveny.
+
 
 ### Příklady použití ve větách
 
@@ -95,7 +100,6 @@ Zde naleznete několik vět, které se podařilo autorům názvosloví zachytit 
 - Padaj mi kalhoty, protože jsem musel toho hada, kterýho používám místo pásku vrátit do snakovny.
 
 
-Pozn.: některé z významů položek byly na žádost organizace PETA po<del>u</del>praveny.
 
 [^bit]: trilobit je předek nikdy nenalezeného zvířete trilo
 [^lit]: [monolit](https://cs.wikipedia.org/wiki/Monolit) byla původně socha [mončičáka](https://cs.wikipedia.org/wiki/Mon%C4%8Di%C4%8D%C3%A1k)
