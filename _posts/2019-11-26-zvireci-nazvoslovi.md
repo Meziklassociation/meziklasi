@@ -83,8 +83,9 @@ _Poznámka:_ základ pro rybu by měl podle pravidel být _fisho_, ale pro lepš
 | _-vník_			   | strom, který má jako plod zvíře 												     		 |
 | _-werk_[^werk]       | zvíře, které je průkopníkem elektronické hudby                                              |
 
-  
-Pozn.: některé z významů položek byly na žádost organizace PETA po<del>u</del>praveny.
+ 
+
+**Pozn.:** některé z významů položek byly na žádost organizace PETA po<del>u</del>praveny.
 
 
 ### Příklady použití ve větách
