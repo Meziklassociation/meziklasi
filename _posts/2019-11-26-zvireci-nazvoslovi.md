@@ -24,7 +24,7 @@ Zde je několik příkladů správného převodu:
 > - Pes → _Dogo_
 > - Žirafa → _Giro_    
 
-_Poznámka:_ základ pro rybu by měl podle pravidel být _fisho_, ale pro lepší výslovnost lze rovněž použít _aquo_.
+**Poznámka:** základ pro rybu by měl podle pravidel být _fisho_, ale pro lepší výslovnost lze rovněž použít _aquo_.
 
 ### Tabulka koncovek
 
@@ -35,6 +35,7 @@ _Poznámka:_ základ pro rybu by měl podle pravidel být _fisho_, ale pro lepš
 | _-bit_[^bit]         | zkamenělina předka zvířete                                                                  |
 | _-burg_              | zvířecí šlechtický rod původem z Německa                                                    |
 | _-burger_            | hamburger připravený ze zvířete                                                             |
+| _-bus_			   | vozidlo uspůsobéné k převážení konkrétního zvířetem 										 |
 | _-by_                | rugby, ale místo míče je zvíře                                                              |
 | _-cest_			   | čin, kvůli kterému Vás Vaši příbuzní přestali zvát na rodinné události						 |
 | _-coin_              | další naprosto zbytečná kryptoměna, která má ve znaku zvíře                                 |
@@ -54,7 +55,7 @@ _Poznámka:_ základ pro rybu by měl podle pravidel být _fisho_, ale pro lepš
 | _-lýza_			   | chemický postup, kterým dokážete přítomnost zvířete v roztoku								 |
 | _-láda_              | čokoláda ve tvaru zvířete                                                                   |
 | _-man_               | komiksový superhrdina, jehož skrytá identita je zvíře                                       |
-| _-metal_			   | další z nepřebereného množství subžánrů metalu |
+| _-metal_[^metal]	   | další z nepřebereného množství subžánrů metalu, který je doprovázen zvuky zvířete			 |
 | _-metr_              | jednotka definovaná délkou zvířete                                                          |
 | _-mor_			   | stvoření ve fantasy románu Joanne Rowlingové, která o něm zpětně prohásí, že je gay		 |
 | _-mut_ 			   | zvíře s kly																			     |
@@ -111,3 +112,4 @@ Zde naleznete několik vět, které se podařilo autorům názvosloví zachytit 
 [^t]: jediné zvíře rozbíjející tuto koncovku je Robin, protože robotický Robin je _robot_... což může být v některých situacích matoucí
 [^teka]: hypotéka v původním slova smyslu byla nákladná půjčka na hrocha, která kvůli postupnému ústupu hrochů do hor a do seriálů [KSP](https://ksp.mff.cuni.cz/) přejala význam nákladné půjčky
 [^werk]: název skupiny [Kraftwerk](https://en.wikipedia.org/wiki/Kraftwerk) je jen zkomolenina slova Crabowerk
+[^metal]: známým příkladem frogometalu je skupina [Vikig Jesus](https://youtu.be/n_4G0ytF6HM)
