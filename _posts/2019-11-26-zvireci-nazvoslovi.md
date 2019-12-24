@@ -42,6 +42,7 @@ Zde je několik příkladů správného převodu:
 | _-con_			   | konference organizovaná pro fanatické fanoušky zvířete										 |
 | _-craft_             | klon hry Minecraft, který naprogramovalo zvíře                                              |
 | _-cern_ 			   | urychlovač zvířat, který slouží k vědeckým účelům											 |
+| _-fuga_			   | zařízení, které odstředivou silou rozdělí zvíře na látky podle hustoty						 |
 | _-graf_              | topologický graf ve tvaru zvířete                                                           |
 | _-in_                | heroin s příchutí zvířete                                                                   |
 | _-ko_                | umělecký směr význačný tlustými sochami zvířete                                             |
@@ -70,6 +71,7 @@ Zde je několik příkladů správného převodu:
 | _-ria_               | bájné podzemní město ve Středozemi zkonstruované zvířetem                                   |
 | _-rtila_             | mexický pokrm připravený ze zvířete                                                         |
 | _-script_            | programovací jazyk, ve kterém jsou povolené pouze identifikátory zvuků, které zvíře vydává  |
+| _-spinner_		   | antistresová pomůcka vyrobená z ložiska a zvířete											 |
 | _-stein_             | zvíře, které je členem německé industrial-metalové skupiny                                  |
 | _-steroid_[^steroid] | zvíře, které spadlo z vesmíru                                                               |
 | _-stán_              | absolutistický stát řízený zvířetem                                                         |
