@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Legenda o Kočičourech"
-date:   2019-09-27
 category: Historické
 ---
 

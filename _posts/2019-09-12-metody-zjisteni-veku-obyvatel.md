@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Metody zjištění věku obyvatel 👨👩"
-date: 2019-09-12 09:00:00 +0200
 category: Vědecké články
 description: "Seriózní vědecký článek o měření věku obyvatel"
 ---

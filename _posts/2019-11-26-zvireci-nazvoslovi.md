@@ -1,7 +1,6 @@
 ---
 layout:   post
 title:    "Názvosloví zvířat 🐶"
-date:     2019-11-26
 category: Vědecké články
 description: "Taky Vám připadá, že věta 'Ten pes má v hlavě langoš' je moc dlouhá na to jak jí říkáte často? Nejste jediní."
 note: -op
