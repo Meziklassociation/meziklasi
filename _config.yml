@@ -11,3 +11,5 @@ url: "http://meziklasi.cz/"
 permalink: /:categories/:title/
 
 markdown: kramdown
+
+exclude: ["*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "scripts/", "LICENSE.txt", "README.md", "Rakefile"]
