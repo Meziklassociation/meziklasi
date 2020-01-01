@@ -16,6 +16,7 @@ $table-cell-spacing: 10px;  // default cell spacing for tables
 // relative sizes of certain website elements
 $title-size: 350%;
 $post-date-size: 115%;
+$small-size: 90%;
 
 // text formatting
 $line-spacing: 20px;  // spacing after paragraph
@@ -146,6 +147,11 @@ $serif-font: "Roboto";
 	margin-bottom: $line-spacing;
 }
 
+// useful CSS classes
+.small { font-size: $small-size; }
+.centered { text-align: center; }
+
+
 body {
 	// text formatting
 	font-family: $serif-font, sans-serif;
@@ -154,11 +160,12 @@ body {
 	// list formatting
 	ul, ol {
 		padding-left: $item-padding;
-		padding-bottom: $line-spacing;
+		margin-bottom: $line-spacing;
 	}
+
 	ul ul, ol ul {
 		margin: 0;
-		padding-bottom: 0;
+		margin-bottom: 0;
 	}
 	
 	// a fix for (arguably) incorrectly Jekyll-generated list code
@@ -172,9 +179,11 @@ body {
 	
 	// text spacing
 	p, hr {margin-bottom: $line-spacing;}
+
 	h1 {padding-bottom: $h1-spacing;}
 	h2 {padding-bottom: $h2-spacing;}
 	h3 {padding-bottom: $h3-spacing;}
+
 	
 	// image formatting
 	img {
