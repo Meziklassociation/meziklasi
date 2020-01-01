@@ -18,7 +18,7 @@ print("generating...")
 
 header = f"""---
 layout: post
-tittle: "{name}"
+title: "{name}"
 date: {date}
 category: {category}
 description: "{description if len(description.split()) > 0 else ""}"
