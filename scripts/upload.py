@@ -60,16 +60,22 @@ def add_content():
         ftp.storbinary("STOR " + file, open(file, "rb"))
         print("CREATED FILE: " + file)
 
-
-ip = input("\nIP: ")
+try:
+    print("searching for login file")
+    login_file  = open("login_info.txt", "r")
+    login_info = login_file.read().split()
+    print("login file loaded successfuly")
+except Exception as e:
+    print("searching for login file failed")
+    print("Enter login info manualy")
+    login_info = [input("IP: "), input("login: "), getpass("password: ")]
 
 # repeatedly attempt to connect to the server
 while True:
-    login = input("Login: ")
-    password = getpass("Password: ")
 
     try:
-        with FTP(ip, login, password) as ftp:
+        print("trying to connect to " + login_info[0])
+        with FTP(login_info[0], login_info[1], login_info[2]) as ftp:
             print("Connected!")
             print(ftp.cwd("www"))
 
