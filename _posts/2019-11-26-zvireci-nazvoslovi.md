@@ -34,7 +34,7 @@ Zde je několik příkladů správného převodu:
 | _-bit_[^bit]         | zkamenělina předka zvířete                                                                  |
 | _-burg_              | zvířecí šlechtický rod původem z Německa                                                    |
 | _-burger_            | hamburger připravený ze zvířete                                                             |
-| _-bus_			   | vozidlo uspůsobéné k převážení konkrétního zvířetem 										 |
+| _-bus_			   | vozidlo uspůsobéné k převážení konkrétního zvířete 										 |
 | _-by_                | rugby, ale místo míče je zvíře                                                              |
 | _-cest_			   | čin, kvůli kterému Vás Vaši příbuzní přestali zvát na rodinné události						 |
 | _-coin_              | další naprosto zbytečná kryptoměna, která má ve znaku zvíře                                 |
