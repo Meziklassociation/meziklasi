@@ -1,7 +1,7 @@
 ---
 layout: post
 tittle: "Nález historické mapy 🗺"
-date: 2019-10-27
+date: 2020-01-01
 category: Novinky
 ---
 
