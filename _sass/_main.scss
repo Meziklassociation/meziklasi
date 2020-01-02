@@ -36,8 +36,24 @@ $link-color: #03d;
 $code-background-color: #f2f2f2;
 
 /* FONT SETTINGS */
-$monospaced-font: "Roboto Mono";
 $serif-font: "Roboto";
+$monospaced-font: "Roboto Mono";
+
+@font-face{
+	font-family: $serif-font;
+	src: local($serif-font),
+		 url("/assets/css/fonts/Roboto-Regular.ttf") format("truetype");
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face{
+	font-family: $monospaced-font;
+	src: local($monospaced-font),
+		 url("/assets/css/fonts/RobotoMono-Regular.ttf") format("truetype");
+	font-weight: 400;
+	font-style: normal;
+}
 
 
 /* WEBSITE-WIDE SETTINGS */
@@ -225,6 +241,7 @@ body {
 	
 	footer {
 		p {
+			font-size: $small-size;
 			text-align: center;
 			margin-bottom: 0;
 		}
