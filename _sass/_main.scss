@@ -16,6 +16,7 @@ $table-cell-spacing: 10px;  // default cell spacing for tables
 // relative sizes of certain website elements
 $title-size: 350%;
 $post-date-size: 115%;
+$small-size: 90%;
 
 // text formatting
 $line-spacing: 20px;  // spacing after paragraph
@@ -35,8 +36,24 @@ $link-color: #03d;
 $code-background-color: #f2f2f2;
 
 /* FONT SETTINGS */
-$monospaced-font: "Roboto Mono";
 $serif-font: "Roboto";
+$monospaced-font: "Roboto Mono";
+
+@font-face{
+	font-family: $serif-font;
+	src: local($serif-font),
+		 url("/assets/css/fonts/Roboto-Regular.ttf") format("truetype");
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face{
+	font-family: $monospaced-font;
+	src: local($monospaced-font),
+		 url("/assets/css/fonts/RobotoMono-Regular.ttf") format("truetype");
+	font-weight: 400;
+	font-style: normal;
+}
 
 
 /* WEBSITE-WIDE SETTINGS */
@@ -146,6 +163,11 @@ $serif-font: "Roboto";
 	margin-bottom: $line-spacing;
 }
 
+// useful CSS classes
+.small { font-size: $small-size; }
+.centered { text-align: center; }
+
+
 body {
 	// text formatting
 	font-family: $serif-font, sans-serif;
@@ -154,11 +176,12 @@ body {
 	// list formatting
 	ul, ol {
 		padding-left: $item-padding;
-		padding-bottom: $line-spacing;
+		margin-bottom: $line-spacing;
 	}
+
 	ul ul, ol ul {
 		margin: 0;
-		padding-bottom: 0;
+		margin-bottom: 0;
 	}
 	
 	// a fix for (arguably) incorrectly Jekyll-generated list code
@@ -172,9 +195,11 @@ body {
 	
 	// text spacing
 	p, hr {margin-bottom: $line-spacing;}
+
 	h1 {padding-bottom: $h1-spacing;}
 	h2 {padding-bottom: $h2-spacing;}
 	h3 {padding-bottom: $h3-spacing;}
+
 	
 	// image formatting
 	img {
@@ -216,6 +241,7 @@ body {
 	
 	footer {
 		p {
+			font-size: $small-size;
 			text-align: center;
 			margin-bottom: 0;
 		}
