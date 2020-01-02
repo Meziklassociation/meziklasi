@@ -14,3 +14,5 @@ __pycache__/
 *.swp
 *.un~
 *.swo
+
+scripts/login_info.txt

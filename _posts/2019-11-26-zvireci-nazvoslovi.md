@@ -1,7 +1,6 @@
 ---
 layout:   post
 title:    "Názvosloví zvířat 🐶"
-date:     2019-11-26
 category: Vědecké články
 description: "Taky Vám připadá, že věta 'Ten pes má v hlavě langoš' je moc dlouhá na to jak jí říkáte často? Nejste jediní."
 note: -op
@@ -35,13 +34,14 @@ Zde je několik příkladů správného převodu:
 | _-bit_[^bit]         | zkamenělina předka zvířete                                                                  |
 | _-burg_              | zvířecí šlechtický rod původem z Německa                                                    |
 | _-burger_            | hamburger připravený ze zvířete                                                             |
-| _-bus_			   | vozidlo uspůsobéné k převážení konkrétního zvířetem 										 |
+| _-bus_			   | vozidlo uspůsobéné k převážení konkrétního zvířete 										 |
 | _-by_                | rugby, ale místo míče je zvíře                                                              |
 | _-cest_			   | čin, kvůli kterému Vás Vaši příbuzní přestali zvát na rodinné události						 |
 | _-coin_              | další naprosto zbytečná kryptoměna, která má ve znaku zvíře                                 |
 | _-con_			   | konference organizovaná pro fanatické fanoušky zvířete										 |
 | _-craft_             | klon hry Minecraft, který naprogramovalo zvíře                                              |
 | _-cern_ 			   | urychlovač zvířat, který slouží k vědeckým účelům											 |
+| _-fuga_			   | zařízení, které odstředivou silou rozdělí zvíře na látky podle hustoty						 |
 | _-graf_              | topologický graf ve tvaru zvířete                                                           |
 | _-in_                | heroin s příchutí zvířete                                                                   |
 | _-ko_                | umělecký směr význačný tlustými sochami zvířete                                             |
@@ -70,6 +70,7 @@ Zde je několik příkladů správného převodu:
 | _-ria_               | bájné podzemní město ve Středozemi zkonstruované zvířetem                                   |
 | _-rtila_             | mexický pokrm připravený ze zvířete                                                         |
 | _-script_            | programovací jazyk, ve kterém jsou povolené pouze identifikátory zvuků, které zvíře vydává  |
+| _-spinner_		   | antistresová pomůcka vyrobená z ložiska a zvířete											 |
 | _-stein_             | zvíře, které je členem německé industrial-metalové skupiny                                  |
 | _-steroid_[^steroid] | zvíře, které spadlo z vesmíru                                                               |
 | _-stán_              | absolutistický stát řízený zvířetem                                                         |

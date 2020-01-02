@@ -1,7 +1,6 @@
 ---
 layout: post
-tittle: "Instantní voda"
-date: 2019-10-14
+title: "Instantní voda"
 category: Vynálezy
 ---
 

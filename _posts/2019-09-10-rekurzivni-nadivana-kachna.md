@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Rekurzivní nadívaná kachna 🦆"
-date:   2019-09-10
 category: Recepty
 description: "Není kachna jako kachna. Ale co kachna v kachně v kachně v kachně..."
 ---

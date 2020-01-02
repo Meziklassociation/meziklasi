@@ -1,7 +1,6 @@
 ---
 layout: post
-tittle: "Nález historické mapy 🗺"
-date: 2019-10-27
+title: "Nález historické mapy 🗺"
 category: Novinky
 ---
 

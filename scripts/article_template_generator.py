@@ -1,0 +1,67 @@
+import datetime
+import unidecode
+import os
+from re import search, DOTALL, MULTILINE
+
+
+def get_categories():
+    """Get all current categories of site articles."""
+    categories = set()
+
+    # go through all posts
+    for path in ("../_drafts/", "../_posts/"):
+        for root, _, filenames in os.walk(path):
+            for filename in filter(lambda f: f.endswith(".md"), filenames):
+                with open(os.path.join(root, filename), "r") as f:
+                    # get the category of each
+                    match = search(
+                        r"---.+?category: (.+?)\n.*?---",
+                        f.read(),
+                        flags=MULTILINE | DOTALL,
+                    )
+
+                    if match is not None:
+                        categories.add(match.group(1))
+
+    return categories
+
+
+# change working directory to the location of this script (which is in scripts/)
+os.chdir(os.path.dirname(os.path.realpath(__file__)))
+
+print("Welcome to Meziklasí article template generator")
+
+date = datetime.date.today().strftime("%Y-%m-%d")
+name, category, description = "", "", ""
+
+# get non-empty title
+while len(name) == 0:
+    name = input("Title: ").strip()
+
+# get non-empty category
+while len(category) == 0:
+    category = input(f"Category ({', '.join(list(get_categories()))}): ").strip()
+
+# get optional description
+description = input("Article RSS description (optional): ").strip()
+print("Generating...")
+
+header = f"""---
+layout: post
+title: {name}
+category: {category}
+description: {description}
+---
+
+
+"""
+
+# create the path to the article (from the date and the sanitized name)
+sanitized_name = unidecode.unidecode(name.replace(" ", "-"))
+path = os.path.join("..", "_drafts", f"{date}-{sanitized_name}.md",)
+
+with open(path, "w") as f:
+    f.write(header)
+
+print("Done.")
+os.system(f"vim {path}")

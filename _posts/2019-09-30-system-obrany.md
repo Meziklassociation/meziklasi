@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Systém obrany 🛡️"
-date:   2019-09-30
 category: Historické
 descrption: "Byla doba, kdy Meziklasí přezbrojilo Vatikán. V tomto článku se dozvíte jak to doopravdy bylo."
 ---

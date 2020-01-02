@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Migrace radioaktivních žab 🐸"
-date:   2019-08-25
 category: Novinky
 description: "Reportáž o jedné z nejvíznamějších pravidelných událostí v Meziklasí"
 ---
