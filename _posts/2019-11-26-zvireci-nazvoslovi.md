@@ -46,7 +46,7 @@ Zde je několik příkladů správného převodu:
 | _-in_                | heroin s příchutí zvířete                                                                   |
 | _-ko_                | umělecký směr význačný tlustými sochami zvířete                                             |
 | _-la_                | gondola vyrobená ze zvířete                                                                 |
-| _-land_			   | zábavný park se zvířecí tématikou															 |
+| _-land_			   | zábavní park se zvířecí tématikou															 |
 | _-lit_[^lit]         | socha zvířete vytesaná z jediného kusu kamene                                               |
 | _-log_               | vědec zkoumající určité zvíře                                                               |
 | _-logie_             | vědní obor zabývající se daným zvířetem                                                     |
@@ -87,7 +87,7 @@ Zde je několik příkladů správného převodu:
 
  
 
-**Pozn.:** některé z významů položek byly na žádost organizace PETA po<del>u</del>praveny.
+**Pozn.:** některé z významů položek byly na žádost organizace PETA po(u)praveny.
 
 
 ### Příklady použití ve větách

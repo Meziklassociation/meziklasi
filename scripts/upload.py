@@ -33,7 +33,7 @@ def remove_content():
 
 def add_content():
     """Recursively adds the content from the _site folder to the website."""
-    ignore = ["scripts"]
+    ignore = ["scripts", "Gemfile", "Gemfile.lock", "LICENSE.txt", "README.md", "Rakefile"]
     # move to the _site
     os.chdir(os.path.join("..", "_site"))
 
