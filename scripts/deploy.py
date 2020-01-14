@@ -9,9 +9,12 @@ os.chdir(os.path.dirname(os.path.realpath(__file__)))
 
 # clean and build website
 os.chdir("..")
-os.system("bundle exec jekyll clean")
-os.system("bundle exec jekyll build")
+os.system("tree -C -d")
+os.system("bundle exec jekyll clean --trace")
+os.system("bundle exec jekyll build --trace")
 os.chdir("scripts")
 
+# clean cashes and log files
+import clean
 # upload the website
 import upload
