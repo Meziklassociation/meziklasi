@@ -7,14 +7,18 @@ os.chdir("..")
 file_remove = list()
 dir_remove = list()
 
+props_to_remove = [".un~", ".sass-cache", ".DS_Store"]
+
 for root, dirs, files in os.walk(os.getcwd()):
 	for file in files:
-		if file.endswith(".un~"):
-			file_remove.append(os.path.join(root, file))
+		for prop in props_to_remove:
+			if file.endswith(prop):
+				file_remove.append(os.path.join(root, file))
 
 	for dir in dirs:
-		if dir.endswith(".sass-cache") or dir.endswith(".DS_Store"):
-			dir_remove.append(os.path.join(root, dir))
+		for prop in props_to_remove:
+			if dir.endswith(prop):
+				dir_remove.append(os.path.join(root, dir))
 
 print("Are you sure you want to permanently remove these items? :")
 print("\tfiles:")
