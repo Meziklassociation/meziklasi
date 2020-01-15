@@ -6,9 +6,11 @@ import os
 # move to the directory of this script, so it can execute system commands in appropriate
 # directories
 os.chdir(os.path.dirname(os.path.realpath(__file__)))
+print("Starting Deployment")
 
 # clean and build website
 os.chdir("..")
+print(os.getcwd())
 os.system("tree -C -d")
 os.system("bundle exec jekyll clean --trace")
 os.system("bundle exec jekyll build --trace")
