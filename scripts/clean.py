@@ -20,24 +20,28 @@ for root, dirs, files in os.walk(os.getcwd()):
 			if dir.endswith(prop):
 				dir_remove.append(os.path.join(root, dir))
 
-print("Are you sure you want to permanently remove these items? :")
-print("\tfiles:")
-for f in file_remove:
-	print("\t\t" + f.replace(os.getcwd(), ""))
+if len(file_remove) > 0 and len(dir_remove) > 0:
+	print("Are you sure you want to permanently remove these items? :")
 
-print("\tdirectories:")
-for d in dir_remove:
-	print("\t\t" + d.replace(os.getcwd(), ""))
+	if len(file_remove) > 0:
+		print("\tfiles:")
+		for f in file_remove:
+			print("\t\t" + f.replace(os.getcwd(), ""))
 
-print("\n[Y/N]")
-agreement = input()
+	if len(dir_remove) > 0:
+		print("\tdirectories:")
+		for d in dir_remove:
+			print("\t\t" + d.replace(os.getcwd(), ""))
 
-if agreement.lower() == "y":
-	for file in file_remove:
-		print("REMOVING FILE:\t\t" + file)
-		os.remove(file)
-	for dir in dir_remove:
-		print("REMOVING DIRECTORY:\t" + dir)
-		shutil.rmtree(dir)
+	print("\n[Y/N]")
+	agreement = input()
+
+	if agreement.lower() == "y":
+		for file in file_remove:
+			print("REMOVING FILE:\t\t" + file)
+			os.remove(file)
+		for dir in dir_remove:
+			print("REMOVING DIRECTORY:\t" + dir)
+			shutil.rmtree(dir)
 
 os.chdir(os.path.dirname(os.path.realpath(__file__)))
