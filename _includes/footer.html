@@ -1,0 +1,18 @@
+{% if site.show_related %}
+	<footer class="related">
+		<div class="previous">
+			{% if page.previous.url %}
+				<span>Předchozí</span>
+				<a href="{{ page.previous.url | relative_url }}">{{ page.previous.title }}</a>
+				<span>{{ page.previous.category }}</span>
+			{% endif %}
+		</div>
+		<div class="next">
+			{% if page.next.url %}
+				<span>Další</span>
+				<a href="{{ page.next.url | relative_url }}">{{ page.next.title }}</a>
+				<span>{{ page.next.category }}</span>
+			{% endif %}
+		</div>
+	</footer>
+{% endif %}

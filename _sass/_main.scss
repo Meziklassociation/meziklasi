@@ -373,3 +373,27 @@ body {
 		.il { color: #666666 } /* Literal.Number.Integer.Long */
 	}
 }
+
+
+/* Footer css */
+
+.related {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: center;
+	padding-bottom: 20px;
+}
+
+.related span {
+	display: block;
+}
+
+.related a {
+	font-size: 1.2em;
+	font-weight: bold;
+}
+
+.next {
+	text-align: right;
+}
