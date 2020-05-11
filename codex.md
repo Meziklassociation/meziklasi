@@ -9,19 +9,24 @@ permalink: /codex
 
 ## Robin
 - Náš Robin
+- Je to kokos
 
 ## Robinova máma
 - Spousta mistifikace
 - Glorifikace (Chuck Noris typ)
 - Všichni ve vesnici z ní mají respekt
+- Vypráví se o ní legendy:
+	- "_...říká se, že Robinova máma plácla hada přes ruku._"
+	- "_...jednou Robinova máma uvařila stehno z lososa_"
 
 ## Ygor
-- rozpolcená osobnost
-- velmi akční
+- Rozpolcená osobnost
+- Velmi akční
+- Aktuálně ve vězení
 
 ## Wasil
-- špatný doktor
-- myslím, že jsme napsali že po smrti
+- Špatný doktor
+- Myslím, že jsme napsali že po smrti (navrhuji oživit)
 
 ## Vynálezce
 - JC
@@ -34,6 +39,5 @@ permalink: /codex
 ---
 
 # Geografie
-
 - Moře
 - Uhelné doly
