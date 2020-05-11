@@ -12,4 +12,6 @@ permalink: /:categories/:title/
 
 markdown: kramdown
 
+show_related: true
+
 exclude: ["*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "scripts/", "LICENSE.txt", "README.md", "Rakefile"]
