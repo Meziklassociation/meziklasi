@@ -19,7 +19,7 @@ checksum_file_name = "checksum.json"
 website_ftp_folder = "www"
 
 # a debug flag for only printing which files and folders will be changed
-DEBUG = True
+DEBUG = False
 
 
 def remove_content(old: Dict[str, str], new: Dict[str, str]):
@@ -137,7 +137,7 @@ try:
     assert password is not None, "Password not set."
 
 except ImportError as e:
-    print("login.py not found, enter credentials manually.")
+    print("               FTP: login.py not found, enter credentials manually.")
 
     ip = input("IP: ")
     login = input("login: ")
