@@ -19,7 +19,7 @@ checksum_file_name = "checksum.json"
 website_ftp_folder = "www"
 
 # a debug flag for only printing which files and folders will be changed
-DEBUG = True
+DEBUG = False
 
 
 def remove_content(old: Dict[str, str], new: Dict[str, str]):
