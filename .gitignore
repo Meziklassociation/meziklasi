@@ -15,4 +15,4 @@ __pycache__/
 *.un~
 *.swo
 
-scripts/login_info.txt
+scripts/login.py
