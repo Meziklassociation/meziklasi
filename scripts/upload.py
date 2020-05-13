@@ -48,7 +48,7 @@ def remove_content(old: Dict[str, str], new: Dict[str, str]):
                 # if it's a file, delete it
                 if not DEBUG:
                     ftp.delete(content)
-                print("DELETED FILE:\t\t" + ftp.pwd() + "/" + content)
+                print("     Removing file: " + ftp.pwd() + "/" + content)
 
         elif content not in permanent_folders:
             # move down to the directory and recursively call remove_content
@@ -61,7 +61,7 @@ def remove_content(old: Dict[str, str], new: Dict[str, str]):
             if remaining_files == 0:
                 if not DEBUG:
                     ftp.rmd(content)
-                print("DELETED DIRECTORY:\t" + ftp.pwd() + "/" + content)
+                print("Removing directory: " + ftp.pwd() + "/" + content)
 
 
 def add_content(old: Dict[str, str], new: Dict[str, str]):
@@ -85,7 +85,7 @@ def add_content(old: Dict[str, str], new: Dict[str, str]):
         except Exception as e:
             if not DEBUG:
                 ftp.mkd(directory)
-            print("CREATED DIRECTORY:\t" + directory)
+            print("  Create directory: " + directory)
 
     # upload files...
     for file in new:
@@ -93,7 +93,7 @@ def add_content(old: Dict[str, str], new: Dict[str, str]):
         if file not in ignored_files and not hashsums_match(old, new, file):
             if not DEBUG:
                 ftp.storbinary("STOR " + file, open(file, "rb"))
-            print("CREATED FILE:\t\t" + file)
+            print("       Upload file: " + file)
 
 
 def hashsums_match(old, new, key):
@@ -130,8 +130,7 @@ password = None
 
 try:
     from login import *
-
-    print("login.py found, loading saved credentials.")
+    print("               FTP: login.py found, loading saved credentials.")
 
     assert ip is not None, "IP not set."
     assert login is not None, "Login not set."
@@ -148,12 +147,10 @@ except ImportError as e:
 # change to the _site directory
 os.chdir(os.path.join(os.path.dirname(os.path.realpath(__file__)), "..", "_site"))
 
-
-print(f"Connecting to {ip}...")
+print(f"               FTP: Connecting to {ip}...")
 with FTP(ip, login, password) as ftp:
     FTP.maxline = 16384 #TODO
-
-    print(ftp.cwd(website_ftp_folder))
+    print("               FTP: " + ftp.cwd(website_ftp_folder))
 
     new = get_hashsum_file()
     json.dump(new, open(checksum_file_name, "w"))
@@ -174,5 +171,5 @@ with FTP(ip, login, password) as ftp:
     add_content(old, new)
 
     # disconnect from the server and terminate the script
-    print(ftp.quit())
+    print("               FTP: " + ftp.quit())
     quit()
