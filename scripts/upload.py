@@ -19,7 +19,7 @@ checksum_file_name = "checksum.json"
 website_ftp_folder = "www"
 
 # a debug flag for only printing which files and folders will be changed
-DEBUG = False
+DEBUG = True
 
 
 def remove_content(old: Dict[str, str], new: Dict[str, str]):
@@ -149,12 +149,10 @@ os.chdir(os.path.join(os.path.dirname(os.path.realpath(__file__)), "..", "_site"
 
 print(f"               FTP: Connecting to {ip}...")
 with FTP(ip, login, password) as ftp:
-    FTP.maxline = 100000  # increased limit, since the JSON file is only one-line; TODO for the future
-
     print("               FTP: " + ftp.cwd(website_ftp_folder))
 
     new = get_hashsum_file()
-    json.dump(new, open(checksum_file_name, "w"))
+    json.dump(new, open(checksum_file_name, "w"), indent=4, sort_keys=True)
 
     # get the old hashsum
     old = {}
@@ -165,15 +163,16 @@ with FTP(ip, login, password) as ftp:
 
         old = json.loads("\n".join(lines))
 
-    # treat checksum differently
-    if checksum_file_name in old:
-        del old[checksum_file_name]
-
     # remove all content that isn't permanent
     remove_content(old, new)
 
     # add all content from _site folder which is not ignored
     add_content(old, new)
+
+    # always manually upload the checksum file
+    if checksum_file_name in ftp.nlst():
+        ftp.delete(checksum_file_name)
+    ftp.storbinary("STOR " + checksum_file_name, open(checksum_file_name, "rb"))
 
     # disconnect from the server and terminate the script
     print("               FTP: " + ftp.quit())
