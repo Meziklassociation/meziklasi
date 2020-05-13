@@ -94,7 +94,7 @@ def add_content(old: Dict[str, str], new: Dict[str, str]):
             if not DEBUG:
                 ftp.storbinary("STOR " + file, open(file, "rb"))
             print("       Upload file: " + file)
-
+    
 
 def hashsums_match(old, new, key):
     return key in old and key in new and old[key] == new[key]
@@ -149,7 +149,8 @@ os.chdir(os.path.join(os.path.dirname(os.path.realpath(__file__)), "..", "_site"
 
 print(f"               FTP: Connecting to {ip}...")
 with FTP(ip, login, password) as ftp:
-    FTP.maxline = 16384 #TODO
+    FTP.maxline = 100000  # increased limit, since the JSON file is only one-line; TODO for the future
+
     print("               FTP: " + ftp.cwd(website_ftp_folder))
 
     new = get_hashsum_file()
@@ -163,6 +164,10 @@ with FTP(ip, login, password) as ftp:
         ftp.retrlines(f"RETR {checksum_file_name}", lambda x: lines.append(x))
 
         old = json.loads("\n".join(lines))
+
+    # treat checksum differently
+    if checksum_file_name in old:
+        del old[checksum_file_name]
 
     # remove all content that isn't permanent
     remove_content(old, new)
