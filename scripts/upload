@@ -1,9 +1,12 @@
+#!/usr/bin/python3
+
 from ftplib import FTP, error_perm
 from typing import *
 import hashlib
 import os
 from glob import glob
 import json
+import argparse
 from getpass import getpass
 
 # files and folders not to remove
@@ -18,8 +21,13 @@ checksum_file_name = "checksum.json"
 
 website_ftp_folder = "www"
 
-# a debug flag for only printing which files and folders will be changed
-DEBUG = False
+
+parser = argparse.ArgumentParser(description="Smart-upload a folder via FTP.")
+parser.add_argument(
+    "-d", "--debug", help="only print the actions", action="store_true", dest="debug"
+)
+
+arguments = parser.parse_args()
 
 
 def remove_content(old: Dict[str, str], new: Dict[str, str]):
@@ -41,12 +49,11 @@ def remove_content(old: Dict[str, str], new: Dict[str, str]):
         # if it's a file
         if is_file:
             # and the content isn't permanent
-            if (
-                content not in permanent_files
-                and not hashsums_match(old, new, relative_path)
+            if content not in permanent_files and not hashsums_match(
+                old, new, relative_path
             ):
                 # if it's a file, delete it
-                if not DEBUG:
+                if not arguments.debug:
                     ftp.delete(content)
                 print("     Removing file: " + ftp.pwd() + "/" + content)
 
@@ -59,7 +66,7 @@ def remove_content(old: Dict[str, str], new: Dict[str, str]):
             ftp.cwd("..")
 
             if remaining_files == 0:
-                if not DEBUG:
+                if not arguments.debug:
                     ftp.rmd(content)
                 print("Removing directory: " + ftp.pwd() + "/" + content)
 
@@ -83,7 +90,7 @@ def add_content(old: Dict[str, str], new: Dict[str, str]):
             ftp.cwd(directory)
             ftp.cwd(pwd)
         except Exception as e:
-            if not DEBUG:
+            if not arguments.debug:
                 ftp.mkd(directory)
             print("  Create directory: " + directory)
 
@@ -91,13 +98,14 @@ def add_content(old: Dict[str, str], new: Dict[str, str]):
     for file in new:
         # that are not ignored and didn't match hashsums
         if file not in ignored_files and not hashsums_match(old, new, file):
-            if not DEBUG:
+            if not arguments.debug:
                 ftp.storbinary("STOR " + file, open(file, "rb"))
             print("       Upload file: " + file)
-    
+
 
 def hashsums_match(old, new, key):
     return key in old and key in new and old[key] == new[key]
+
 
 def generate_hashsum(file_name):
     """Generate a SHA-256 hashsum of the given file."""
@@ -130,6 +138,7 @@ password = None
 
 try:
     from login import *
+
     print("               FTP: login.py found, loading saved credentials.")
 
     assert ip is not None, "IP not set."
@@ -144,8 +153,15 @@ except ImportError as e:
     password = getpass("password: ")
 
 
-# change to the _site directory
-os.chdir(os.path.join(os.path.dirname(os.path.realpath(__file__)), "..", "_site"))
+site_dir = os.path.join(os.path.dirname(os.path.realpath(__file__)), "..", "_site")
+
+# change to the _site directory (if it exists)
+if not os.path.exists(site_dir):
+    print(f"               FTP: _site folder does not exist, exitting.")
+    quit()
+
+
+os.chdir(site_dir)
 
 print(f"               FTP: Connecting to {ip}...")
 with FTP(ip, login, password) as ftp:
@@ -170,9 +186,10 @@ with FTP(ip, login, password) as ftp:
     add_content(old, new)
 
     # always manually upload the checksum file
-    if checksum_file_name in ftp.nlst():
-        ftp.delete(checksum_file_name)
-    ftp.storbinary("STOR " + checksum_file_name, open(checksum_file_name, "rb"))
+    if not arguments.debug:
+        if checksum_file_name in ftp.nlst():
+            ftp.delete(checksum_file_name)
+        ftp.storbinary("STOR " + checksum_file_name, open(checksum_file_name, "rb"))
 
     # disconnect from the server and terminate the script
     print("               FTP: " + ftp.quit())
