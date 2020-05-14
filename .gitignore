@@ -15,4 +15,8 @@ __pycache__/
 *.un~
 *.swo
 
+# Private files
 scripts/login.py
+
+# A special directory for non-gitable things
+ignored/
