@@ -21,7 +21,7 @@ Jekyll::Hooks.register :documents, :post_render do |doc, payload|
 		rendered_content = rendered_content.gsub("% <![CDATA[\n", "")
 		rendered_content = rendered_content.gsub("%]]>", "")
 
-		display_latex = rendered_content.scan(Regexp.new(/<script type="math\/tex; mode=display">(.*?)<\/script>/)).flatten
+		display_latex = rendered_content.scan(Regexp.new(/<script type="math\/tex; mode=display">(.*?)<\/script>/m)).flatten
 		count += display_latex.size
 		for dl in display_latex
 			rendered_content = rendered_content.gsub('<script type="math/tex; mode=display">' + dl + '</script>',
@@ -30,7 +30,7 @@ Jekyll::Hooks.register :documents, :post_render do |doc, payload|
 				'</div>')
 		end
 
-		inline_latex = rendered_content.scan(Regexp.new(/<script type="math\/tex">(.*?)<\/script>/)).flatten
+		inline_latex = rendered_content.scan(Regexp.new(/<script type="math\/tex">(.*?)<\/script>/m)).flatten
 		count += inline_latex.size
 		for il in inline_latex
 			rendered_content = rendered_content.gsub('<script type="math/tex">' + il + '</script>',
