@@ -7,8 +7,10 @@ count = 0
 global_macros = Hash.new
 
 Jekyll::Hooks.register :site, :after_init do |site|
-	for macro_definition in site.config["latex-macros"]
-		global_macros[macro_definition[0]] = macro_definition[1]
+	if site.config["latex-macros"] != nil
+		for macro_definition in site.config["latex-macros"]
+			global_macros[macro_definition[0]] = macro_definition[1]
+		end
 	end
 	print("             LaTeX: " + global_macros.size.to_s + " macros loaded\n")
 end
