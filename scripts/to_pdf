@@ -1,0 +1,46 @@
+#!/usr/bin/python3
+
+import os
+from glob import glob
+import pypandoc
+import frontmatter
+import emoji
+from enum import Enum, auto
+
+# TODO:
+# - emojis
+# - newpage inserts
+# - categories
+# - margins
+
+# where to output the result
+out_path = os.path.join(os.path.dirname(os.path.realpath(__file__)), "out.pdf")
+
+# where to look for files
+glob_rules = ["o-vesnici.md", "_posts/*.md", "meta.md"]
+
+os.chdir(os.path.join(os.path.dirname(os.path.realpath(__file__)), ".."))
+
+contents = []
+
+for rule in glob_rules:
+    for file in sorted(glob(rule)):
+        post_object = frontmatter.load(file)
+
+        metadata = post_object.metadata
+        content = post_object.content
+
+        if "layout" in metadata and metadata["layout"] == "post":
+            content = f"## {metadata['title']}\n" + content
+
+        contents.append(content)
+
+
+# use pandoc to convert
+pypandoc.convert_text(
+    "\n\n".join(contents),
+    "pdf",
+    format="gfm",
+    outputfile=out_path,
+    extra_args=["--pdf-engine=xelatex",],
+)
