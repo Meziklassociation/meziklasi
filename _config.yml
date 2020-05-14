@@ -5,7 +5,7 @@ description: >-
   Tato stránka je dedikována mýtické vesnici Meziklasí,
   nacházející se ve středu a v pátek na východě České Republiky.
 
-url: "http://meziklasi.cz"
+url: "https://meziklasi.cz"
 baseurl: ""
 
 permalink: /:categories/:title/
