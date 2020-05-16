@@ -15,9 +15,3 @@ markdown: kramdown
 show_related: true
 
 exclude: ["*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "scripts/", "ignored/", "LICENSE.txt", "README.md", "Rakefile"]
-
-# Latex macros
-latex-macros:
-  - ["\\RR", "\\mathbb{R}"]
-  - ["\\NN", "\\mathbb{N}"]
-  - ["\\ZZ", "\\mathbb{Z}"]
