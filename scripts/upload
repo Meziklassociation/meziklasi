@@ -14,7 +14,7 @@ permanent_files = ["info.php", ".gitkeep"]
 permanent_folders = ["subdom", "domains"]
 
 # files and folders to ignore when uploading
-ignored_files = []
+ignored_files = ["makefile"]
 ignored_folders = ["scripts"]
 
 checksum_file_name = "checksum.json"
