@@ -3,6 +3,9 @@ require 'execjs'
 PATH_TO_JS = "./assets/js/katex.min.js"
 katex_modul = ExecJS.compile(open(PATH_TO_JS).read)
 
+display_latex_regex = Regexp.new(/\\\[(.*?)\\\]/m)
+inline_latex_regex = Regexp.new(/\\\((.*?)\\\)/m)
+
 count = 0
 global_macros = Hash.new
 
@@ -18,24 +21,25 @@ end
 Jekyll::Hooks.register :documents, :post_render do |doc, payload|
 	if doc.data["latex"]
 		rendered_content = doc.output
-		rendered_content = rendered_content.gsub("% <![CDATA[\n", "")
-		rendered_content = rendered_content.gsub("%]]>", "")
 
-		display_latex = rendered_content.scan(Regexp.new(/<script type="math\/tex; mode=display">(.*?)<\/script>/m)).flatten
+		display_latex = rendered_content.scan(display_latex_regex).flatten
 		count += display_latex.size
 		for dl in display_latex
-			rendered_content = rendered_content.gsub('<script type="math/tex; mode=display">' + dl + '</script>',
+			to_render = dl.gsub("&gt;", ">").gsub("&lt;", "<").gsub("&amp;", "&")
+			rendered_content = rendered_content.gsub('\[' + dl + '\]',
 				'<div class="equation" style="font-size: 130%">' +
-				katex_modul.call("katex.renderToString", dl, {displayMode: true, macros: global_macros}) +
+				katex_modul.call("katex.renderToString", to_render, {displayMode: true, macros: global_macros}) +
 				'</div>')
 		end
 
-		inline_latex = rendered_content.scan(Regexp.new(/<script type="math\/tex">(.*?)<\/script>/m)).flatten
+		inline_latex = rendered_content.scan(inline_latex_regex).flatten
 		count += inline_latex.size
 		for il in inline_latex
-			rendered_content = rendered_content.gsub('<script type="math/tex">' + il + '</script>',
+			to_render = il.gsub("&gt;", ">").gsub("&lt;", "<").gsub("&amp;", "&")
+			print(to_render + "\n")
+			rendered_content = rendered_content.gsub("\\(" + il + "\\)",
 			'<span class="inline-equation">' +
-			katex_modul.call("katex.renderToString", il, {displayMode: false, macros: global_macros}) +
+			katex_modul.call("katex.renderToString", to_render, {displayMode: false, macros: global_macros}) +
 			'</span>')
 		end
 
