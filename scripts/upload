@@ -51,7 +51,7 @@ def remove_content(old: Dict[str, str], new: Dict[str, str]):
             # and the content isn't permanent
             if content not in permanent_files and not hashsums_match(
                 old, new, relative_path
-            ):
+            ) or content in ignored_files:
                 # if it's a file, delete it
                 if not arguments.debug:
                     ftp.delete(content)
