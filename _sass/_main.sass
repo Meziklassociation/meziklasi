@@ -35,14 +35,20 @@ $monospaced-font: "Roboto Mono"
 
 @font-face
   font-family: $serif-font
+  src: local($serif-font), url("/assets/css/fonts/Roboto-Light.ttf") format("truetype")
+  font-weight: normal
+  font-style: normal
+
+@font-face
+  font-family: $serif-font
   src: local($serif-font), url("/assets/css/fonts/Roboto-Regular.ttf") format("truetype")
-  font-weight: 300
+  font-weight: bold
   font-style: normal
 
 @font-face
   font-family: $monospaced-font
   src: local($monospaced-font), url("/assets/css/fonts/RobotoMono-Regular.ttf") format("truetype")
-  font-weight: 400
+  font-weight: normal
   font-style: normal
 
 /* WEBSITE-WIDE SETTINGS */
