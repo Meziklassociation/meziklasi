@@ -12,6 +12,9 @@ permalink: /:categories/:title/
 
 markdown: kramdown
 
+kramdown:
+  math_engine: katex
+
 show_related: true
 
 exclude: ["*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "scripts/", "ignored/", "LICENSE.txt", "README.md", "Rakefile"]
