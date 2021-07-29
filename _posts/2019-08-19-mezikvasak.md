@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Mezikvašák 🥒"
 category: Recepty
 description: "Chcete si připravit tradiční mezikvašák? Ikdyž nám není jasné proč, tak zde máte recept, který Vám v tom pomůže"

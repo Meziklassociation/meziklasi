@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Tradiční meziklasská medicína 🗜"
 category: Vědecké články
 description: "Meziklaská tradiční medicína je trošku netradiční v porovnání s jakoukoli jinou. Zde se dozvíte proč."

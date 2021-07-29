@@ -1,8 +1,6 @@
 ---
-layout: default
 title: Dodatečné informace o stránce
 hide_in_menu: true
-permalink: /meta.html
 ---
 
 V této sekci stránky naleznete dodatečné informace k provozu, historii a možnosti podílet se na tvorbě obsahu pro webovou stránku.

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Rekurzivní nadívaná kachna 🦆"
 category: Recepty
 description: "Není kachna jako kachna. Ale co kachna v kachně v kachně v kachně..."

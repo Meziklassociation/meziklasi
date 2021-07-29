@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Systém obrany 🛡️"
 category: Historické
 descrption: "Byla doba, kdy Meziklasí přezbrojilo Vatikán. V tomto článku se dozvíte jak to doopravdy bylo."

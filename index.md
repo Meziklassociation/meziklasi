@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Úvodní stránka
 order: 0
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Reforma fyzikálních jednotek 📐"
 category: Historické
 description: "Taky Vás vždy zajímalo, proč v Meziklasí používají místo pravítka psy ? Nebo se (nedej bože) plánujete do Meziklasí nastěhovat ? Potom je tento článek přímo pro Vás!" 

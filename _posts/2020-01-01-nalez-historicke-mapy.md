@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Nález historické mapy 🗺"
 category: Novinky
 ---

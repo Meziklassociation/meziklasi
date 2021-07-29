@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Migrace radioaktivních žab 🐸"
 category: Novinky
 description: "Reportáž o jedné z nejvíznamějších pravidelných událostí v Meziklasí"

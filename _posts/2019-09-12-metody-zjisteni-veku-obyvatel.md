@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Metody zjištění věku obyvatel 👨👩"
 category: Vědecké články
 description: "Seriózní vědecký článek o měření věku obyvatel"

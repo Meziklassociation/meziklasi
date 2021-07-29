@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Vanilkový dort s třešní 🍰"
 category: Recepty
 description: "Pokud se nebojíte složitých receptů, tak jste ještě nečetli tento."
