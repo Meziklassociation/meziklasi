@@ -1,8 +1,6 @@
 ---
-layout: default
 title: Kodex
 hide_in_menu: true
-permalink: /codex
 ---
 
 # Seznam obyvatel
