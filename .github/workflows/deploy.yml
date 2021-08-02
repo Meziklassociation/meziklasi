@@ -1,0 +1,27 @@
+name: Deploy to GitHub pages
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: "2.7"
+        bundler-cache: true
+    - name: Run tests
+      run: bundle exec jekyll build
+    - name: Publish website to GitHub Pages
+      uses: tsunematsu21/actions-publish-gh-pages@v1.0.2
+      with:
+        dir: _site
+        branch: gh-pages
+        token: ${{ secrets.ACCESS_TOKEN }}
