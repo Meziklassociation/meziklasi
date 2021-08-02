@@ -4,7 +4,6 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
 		<!-- PAGE TITLE AND DESCRIPTION -->
 		{% if page.order == 0 %}
 			<title>{{ site.title | split: " " | first }}</title>
@@ -12,6 +11,9 @@
 			<title>{{ site.title | split: " " | first }} – {{ page.title }}</title>
 		{% endif %}
 		<meta name="description" content="{{site.description}}">
+
+		<!-- FAVICON -->
+		<link rel="icon" type="image/ico" href="{{'/favicon.ico' | absolute_url}}">
 
 		<!-- CSS -->
 		<link rel="stylesheet" href="{{'/assets/css/main.css' | absolute_url}}">
@@ -25,7 +27,6 @@
 		<!-- TRAFIC INFO-->
 		<script async defer data-domain="meziklasi.cz" src="https://stats.meziklasi.cz/js/index.js"></script>
 	</head>
-
 	<body>
 		<div class="header">
 			{% assign sections_sorted = site.pages | sort: 'order' %}
