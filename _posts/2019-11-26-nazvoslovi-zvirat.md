@@ -5,14 +5,10 @@ description: "Taky Vám připadá, že věta 'Ten pes má v hlavě langoš' je m
 note: -op
 ---
  
-Ve spolupráci s vědeckou komunitou vytvořila meziklasská elita systém názvosloví zvířat,
-jehož účelem je za co nejkratší čas podat o zvířeti co možná nejvíce přesných informací.
-Tento článek zachycuje výsledek jejich snažení a rovněž slouží jako dokumentace k tomuto
-mezivesničně uznávanému standardu.
+Ve spolupráci s vědeckou komunitou vytvořila meziklasská elita systém názvosloví zvířat, jehož účelem je za co nejkratší čas podat o zvířeti co možná nejvíce přesných informací. Tento článek zachycuje výsledek jejich snažení a rovněž slouží jako dokumentace k tomuto mezivesničně uznávanému standardu.
 
 ### Tvorba základu
-Převést jméno zvířete na základní tvar názvosloví lze provést v několika jednoduchých
-krocích:
+Převést jméno zvířete na základní tvar názvosloví lze provést v několika jednoduchých krocích:
 
 1. Přeložte název zvířete do angličtiny.
 2. Pokud má slovo více než dvě slabiky, tak jej na dvě slabiky zkraťte.
@@ -26,8 +22,7 @@ Zde je několik příkladů správného převodu:
 > - Pes → _Dogo_
 > - Žirafa → _Giro_    
 
-**Poznámka:** základ pro rybu by měl podle pravidel být _fisho_, ale pro lepší
-výslovnost lze rovněž použít _aquo_.
+**Poznámka:** základ pro rybu by měl podle pravidel být _fisho_, ale pro lepší výslovnost lze rovněž použít _aquo_.
 
 ### Tabulka koncovek
 
@@ -96,8 +91,7 @@ výslovnost lze rovněž použít _aquo_.
 
 ### Příklady použití ve větách
 
-Zde naleznete několik vět, které se podařilo autorům názvosloví zachytit v každodenních
-rozhovorech meziklasských obyvatel:
+Zde naleznete několik vět, které se podařilo autorům názvosloví zachytit v každodenních rozhovorech meziklasských obyvatel:
 - Už jsi zkusila ten Whaloin? Ne, ale cena Dogoinu teď docela roste.
 - Ve dne obyčejný úřední krab, v noci hrdina bojující se zločinem -- Craboman!
 - Křižník Játanic se potopil po nárazu do birdobergu.
@@ -110,18 +104,12 @@ rozhovorech meziklasských obyvatel:
 
 
 [^bit]: trilobit je předek nikdy nenalezeného zvířete trilo
-[^lit]: [monolit](https://cs.wikipedia.org/wiki/Monolit) byla původně socha
-  [mončičáka](https://cs.wikipedia.org/wiki/Mon%C4%8Di%C4%8D%C3%A1k)
+[^lit]: [monolit](https://cs.wikipedia.org/wiki/Monolit) byla původně socha [mončičáka](https://cs.wikipedia.org/wiki/Mon%C4%8Di%C4%8D%C3%A1k)
 [^pad]: Viktoriiny vodopády nejsou místo, kde padají Viktorie
-[^s]: tato koncovka je překvapivě užitečnější a frekventovanější, než se může na první
-  pohled zdát
+[^s]: tato koncovka je překvapivě užitečnější a frekventovanější, než se může na první pohled zdát
 [^naut]: první dogonaut byla Laika
 [^steroid]: první dogosteroid byla bohužel taky Laika
-[^t]: jediné zvíře rozbíjející tuto koncovku je Robin, protože robotický Robin je
-  _robot_... což může být v některých situacích matoucí
-[^teka]: hypotéka v původním slova smyslu byla nákladná půjčka na hrocha, která kvůli
-  postupnému ústupu hrochů do hor a do seriálů [KSP](https://ksp.mff.cuni.cz/) přejala
-  význam nákladné půjčky
-[^werk]: název skupiny [Kraftwerk](https://en.wikipedia.org/wiki/Kraftwerk) je jen
-  zkomolenina slova Crabowerk
+[^t]: jediné zvíře rozbíjející tuto koncovku je Robin, protože robotický Robin je _robot_... což může být v některých situacích matoucí
+[^teka]: hypotéka v původním slova smyslu byla nákladná půjčka na hrocha, která kvůli postupnému ústupu hrochů do hor a do seriálů [KSP](https://ksp.mff.cuni.cz/) přejala význam nákladné půjčky
+[^werk]: název skupiny [Kraftwerk](https://en.wikipedia.org/wiki/Kraftwerk) je jen zkomolenina slova Crabowerk
 [^metal]: známým příkladem frogometalu je skupina [Vikig Jesus](https://youtu.be/n_4G0ytF6HM)
