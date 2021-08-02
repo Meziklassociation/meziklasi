@@ -17,7 +17,7 @@ jobs:
       with:
         ruby-version: "2.7"
         bundler-cache: true
-    - name: Run tests
+    - name: Build the site
       run: bundle exec jekyll build
     - name: Publish website to GitHub Pages
       uses: tsunematsu21/actions-publish-gh-pages@v1.0.2
