@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Instantní voda"
+title: "Instantní voda🪣"
 category: Vynálezy
 ---
 
@@ -8,7 +8,7 @@ Máte plné zuby tahání těžkých a nepraktických lahví vody na cestách? L
 
 Meziklasští vědci na tento problém objevili revoluční nové řešení: instantní voda!
 
-[Obrázek instantní vody]
+![Obrázek instantní vody](/assets/img/instavoda.png)
 
 Stačí přidat vodu a okamžitě máte vodu!
 
