@@ -12,7 +12,7 @@ Radiouhlíková metoda určila datum vzniku na rok 2003, což historiky překvap
 
 Originál nalezené mapy bude vystaven v meziklasském muzeu hned jakmile bude dostavěno. Odhad data dokončení stavby vedení vesnice určí až poté co stavba vůbec započne.
 
-V dnešní době ovšem existují již mnohem podrobnější mapy. Například mapy poskytované společností Google, obsahují satelistní snímky i přesnou polohu [Meziklasského moře][meziklasske-more].
+V dnešní době ovšem existují již mnohem podrobnější mapy. Například mapy poskytované společností Google, obsahují satelitní snímky i přesnou polohu [Meziklasského moře][meziklasske-more].
 
 [mapa]: /assets/img/historicka-mapa.png
 [meziklasske-more]: https://goo.gl/maps/cnCgeULtFMbrcEYa7

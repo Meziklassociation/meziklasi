@@ -1,7 +1,7 @@
 ---
 title:  "Systém obrany 🛡️"
 category: Historické
-descrption: "Byla doba, kdy Meziklasí přezbrojilo Vatikán. V tomto článku se dozvíte jak to doopravdy bylo."
+description: "Byla doba, kdy Meziklasí přezbrojilo Vatikán. V tomto článku se dozvíte jak to doopravdy bylo."
 ---
 
 Meziklasský obranný systém patří k jedněm z nejunikátnějších na světě. Vznikl relativně nedávno (90. léta minulého století), kdy se do Meziklasí donesla novina, že už existují státy jiného typu než polis a že některé z těchto států mají zálusk na jejich legendární [kulinářské recepty](/clanky/#recepty).

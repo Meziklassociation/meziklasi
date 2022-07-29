@@ -33,7 +33,7 @@ Zde je několik příkladů správného převodu:
 | _-bit_[^bit]         | zkamenělina předka zvířete                                                                  |
 | _-burg_              | zvířecí šlechtický rod původem z Německa                                                    |
 | _-burger_            | hamburger připravený ze zvířete                                                             |
-| _-bus_			   | vozidlo uspůsobéné k převážení konkrétního zvířete 										 |
+| _-bus_			   | vozidlo uzpůsobené k převážení konkrétního zvířete 										 |
 | _-by_                | rugby, ale místo míče je zvíře                                                              |
 | _-cest_			   | čin, kvůli kterému Vás Vaši příbuzní přestali zvát na rodinné události						 |
 | _-coin_              | další naprosto zbytečná kryptoměna, která má ve znaku zvíře                                 |
@@ -54,9 +54,9 @@ Zde je několik příkladů správného převodu:
 | _-lýza_			   | chemický postup, kterým dokážete přítomnost zvířete v roztoku								 |
 | _-láda_              | čokoláda ve tvaru zvířete                                                                   |
 | _-man_               | komiksový superhrdina, jehož skrytá identita je zvíře                                       |
-| _-metal_[^metal]	   | další z nepřebereného množství subžánrů metalu, který je doprovázen zvuky zvířete			 |
+| _-metal_[^metal]	   | další z nepřeberného množství subžánrů metalu, který je doprovázen zvuky zvířete			 |
 | _-metr_              | jednotka definovaná délkou zvířete                                                          |
-| _-mor_			   | stvoření ve fantasy románu Joanne Rowlingové, která o něm zpětně prohásí, že je gay		 |
+| _-mor_			   | stvoření ve fantasy románu Joanne Rowlingové, která o něm zpětně prohlásí, že je gay		 |
 | _-mut_ 			   | zvíře s kly																			     |
 | _-nium_              | těžký prvek objevený zvířetem                                                               |
 | _-náda_              | limonáda připravená ze zvířete                                                              |
