@@ -28,7 +28,7 @@
 		<script async defer data-domain="meziklasi.cz" src="https://stats.meziklasi.cz/js/index.js"></script>
 	</head>
 	<body>
-		<div class="header">
+		<header class="header">
 			{% assign sections_sorted = site.pages | sort: 'order' %}
 
 			{% if "/" != page.url %}
@@ -42,7 +42,7 @@
 					{{site.title}}
 				</h1>
 			{% endif %}
-		</div>
+		</header>
 		
 		<div class="content">
 			<!-- navigation bar -->
@@ -68,8 +68,10 @@
 		
 			<hr>
 		
-			{{ content }}
-		
+			<main>
+				{{ content }}
+			</main>
+
 			<hr>
 		
 			<footer>
