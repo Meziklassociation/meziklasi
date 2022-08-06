@@ -311,3 +311,23 @@ body
 @media print
   header, footer
     display: none
+
+@media (prefers-color-scheme: dark)
+  body
+    background: #181a1b
+  body, .current-page-item a, .header a h1, h1
+    color: white !important
+  a
+    color: rgb(71, 154, 255) !important
+  td
+    border-color: rgb(106, 99, 87)
+    background-color: rgb(24, 26, 27)
+  table
+    color: rgb(200, 195, 188)
+  th
+    border-color: rgb(106, 99, 87)
+    background-color: rgb(43, 46, 48)
+  blockquote
+    color: rgb(171, 164, 153)
+  img.invertable
+    filter: invert(.8)
