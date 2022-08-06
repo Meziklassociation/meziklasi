@@ -28,6 +28,15 @@ $text-color: #000 // text colors
 $quote-color: #606060
 $link-color: #03d
 
+/* Dark mode colors */
+$text-color-dark: #fff
+$link-color-dark: rgb(71, 154, 255)
+$blockquote-color-dark: rgb(171, 164, 153)
+$border-color-dark: rgb(106, 99, 87)
+$background-dark: #181a1b
+$background-light-dark: rgb(24, 26, 27)
+$background-lighter-dark: rgb(43, 46, 48)
+
 $code-background-color: #f2f2f2 // background colors
 
 /* FONT SETTINGS */
@@ -314,20 +323,20 @@ body
 
 @media (prefers-color-scheme: dark)
   body
-    background: #181a1b
+    background: $background-dark
   body, .current-page-item a, .header a h1, h1
-    color: white !important
+    color: $text-color-dark !important
   a
-    color: rgb(71, 154, 255) !important
+    color: $link-color-dark !important
   td
-    border-color: rgb(106, 99, 87)
-    background-color: rgb(24, 26, 27)
+    border-color: $border-color-dark
+    background-color: $background-light-dark
   table
-    color: rgb(200, 195, 188)
+    color: $text-color-dark
   th
-    border-color: rgb(106, 99, 87)
-    background-color: rgb(43, 46, 48)
+    border-color: $border-color-dark
+    background-color: $background-lighter-dark
   blockquote
-    color: rgb(171, 164, 153)
+    color: $blockquote-color-dark
   img.invertable
     filter: invert(.8)
