@@ -1,14 +1,15 @@
 @charset "utf-8"
+@import "highlight"
 
 /* SIZE DEFINITIONS */
-$website-size: 800px            // width of content of the website
-$website-padding: 25px          // left/right padding of website content
-$header-padding: 10px           // top/bottom padding of header
-$navigation-padding: 20px       // top/bottom padding of navbar
-$navigation-item-spacing: 20px  // spacing between each of the navigation items
-$code-padding: 6px              // padding for inline code, half padding for block code
-$code-border-roundness: 10px    // roundness of the code border
-$table-cell-spacing: 10px       // default cell spacing for tables
+$website-size: 800px // width of content of the website
+$website-padding: 25px // left/right padding of website content
+$header-padding: 10px // top/bottom padding of header
+$navigation-padding: 20px // top/bottom padding of navbar
+$navigation-item-spacing: 20px // spacing between each of the navigation items
+$code-padding: 6px // padding for inline code, half padding for block code
+$code-border-roundness: 10px // roundness of the code border
+$table-cell-spacing: 10px // default cell spacing for tables
 
 /* relative sizes of certain website elements */
 $title-size: 350%
@@ -16,14 +17,14 @@ $post-date-size: 115%
 $small-size: 90%
 
 /* text formatting */
-$line-spacing: 20px    // spacing after paragraph
-$h1-spacing: 12px      // spacing after h1
-$h2-spacing: 10px      // spacing after h2
-$h3-spacing: 8px       // spacing after h3
-$item-padding: 25px    // list and blockquote padding
+$line-spacing: 20px // spacing after paragraph
+$h1-spacing: 12px // spacing after h1
+$h2-spacing: 10px // spacing after h2
+$h3-spacing: 8px // spacing after h3
+$item-padding: 25px // list and blockquote padding
 
 /* COLOR DEFINITIONS */
-$text-color: #000      // text colors
+$text-color: #000 // text colors
 $quote-color: #606060
 $link-color: #03d
 
@@ -84,7 +85,7 @@ $monospaced-font: "Roboto Mono"
   td
     padding-right: $table-cell-spacing
 
-  margin-bottom: $line-spacing
+    margin-bottom: $line-spacing
 
 // wiki-like table class
 .wiki-table
@@ -148,9 +149,9 @@ $monospaced-font: "Roboto Mono"
     overflow-x: auto
     padding: $code-padding
 
-  border-radius: $code-border-roundness
-  padding: ($code-padding / 2) $code-padding
-  margin-bottom: $line-spacing
+    border-radius: $code-border-roundness
+    padding: ($code-padding / 2) $code-padding
+    margin-bottom: $line-spacing
 
 // useful CSS classes
 .small
@@ -273,250 +274,21 @@ body
   color: $text-color
 
   a
-    color: $link-color !important
+    color: $link-color
 
     &:hover
-      color: $text-color !important
+      color: $text-color
 
   blockquote
     color: $quote-color
 
   .current-page-item, .header
     a, h1
-      color: $text-color !important
+      color: $text-color
 
   .highlight, .highlighter-rouge
     background-color: $code-background-color
     border-color: $code-background-color
-
-  .highlight
-    .hll
-      background-color: #ffffcc
-    // Comment
-    .c
-      color: #408080
-      font-style: italic
-    // Error
-    .err
-      border: 1px solid #FF0000
-    // Keyword
-    .k
-      color: #008000
-      font-weight: bold
-    // Operator
-    .o
-      color: #666666
-    // Comment.Hashbang
-    .ch
-      color: #408080
-      font-style: italic
-    // Comment.Multiline
-    .cm
-      color: #408080
-      font-style: italic
-    // Comment.Preproc
-    .cp
-      color: #BC7A00
-    // Comment.PreprocFile
-    .cpf
-      color: #408080
-      font-style: italic
-    // Comment.Single
-    .c1
-      color: #408080
-      font-style: italic
-    // Comment.Special
-    .cs
-      color: #408080
-      font-style: italic
-    // Generic.Deleted
-    .gd
-      color: #A00000
-    // Generic.Emph
-    .ge
-      font-style: italic
-    // Generic.Error
-    .gr
-      color: #FF0000
-    // Generic.Heading
-    .gh
-      color: #000080
-      font-weight: bold
-    // Generic.Inserted
-    .gi
-      color: #00A000
-    // Generic.Output
-    .go
-      color: #606060
-    // Generic.Prompt
-    .gp
-      color: #000080
-      font-weight: bold
-    // Generic.Strong
-    .gs
-      font-weight: bold
-    // Generic.Subheading
-    .gu
-      color: #800080
-      font-weight: bold
-    // Generic.Traceback
-    .gt
-      color: #0044DD
-    // Keyword.Constant
-    .kc
-      color: #008000
-      font-weight: bold
-    // Keyword.Declaration
-    .kd
-      color: #008000
-      font-weight: bold
-    // Keyword.Namespace
-    .kn
-      color: #008000
-      font-weight: bold
-    // Keyword.Pseudo
-    .kp
-      color: #008000
-    // Keyword.Reserved
-    .kr
-      color: #008000
-      font-weight: bold
-    // Keyword.Type
-    .kt
-      color: #B00040
-    // Literal.Number
-    .m
-      color: #666666
-    // Literal.String
-    .s
-      color: #BA2121
-    // Name.Attribute
-    .na
-      color: #7D9029
-    // Name.Builtin
-    .nb
-      color: #008000
-    // Name.Class
-    .nc
-      color: #0000FF
-      font-weight: bold
-    // Name.Constant
-    .no
-      color: #880000
-    // Name.Decorator
-    .nd
-      color: #AA22FF
-    // Name.Entity
-    .ni
-      color: #999999
-      font-weight: bold
-    // Name.Exception
-    .ne
-      color: #D2413A
-      font-weight: bold
-    // Name.Function
-    .nf
-      color: #0000FF
-    // Name.Label
-    .nl
-      color: #A0A000
-    // Name.Namespace
-    .nn
-      color: #0000FF
-      font-weight: bold
-    // Name.Tag
-    .nt
-      color: #008000
-      font-weight: bold
-    // Name.Variable
-    .nv
-      color: #19177C
-    // Operator.Word
-    .ow
-      color: #AA22FF
-      font-weight: bold
-    // Text.Whitespace
-    .w
-      color: #bbbbbb
-    // Literal.Number.Bin - Metal af
-    .mb
-      color: #666666
-    // Literal.Number.Float
-    .mf
-      color: #666666
-    // Literal.Number.Hex
-    .mh
-      color: #666666
-    // Literal.Number.Integer
-    .mi
-      color: #666666
-    // Literal.Number.Oct
-    .mo
-      color: #666666
-    // Literal.String.Affix
-    .sa
-      color: #BA2121
-    // Literal.String.Backtick
-    .sb
-      color: #BA2121
-    // Literal.String.Char
-    .sc
-      color: #BA2121
-    // Literal.String.Delimiter 
-    .dl
-      color: #BA2121
-    // Literal.String.Doc
-    .sd
-      color: #BA2121
-      font-style: italic
-    // Literal.String.Double
-    .s2
-      color: #BA2121
-    // Literal.String.Escape
-    .se
-      color: #BB6622
-      font-weight: bold
-    // Literal.String.Heredoc
-    .sh
-      color: #BA2121
-    // Literal.String.Interpol
-    .si
-      color: #BB6688
-      font-weight: bold
-    // Literal.String.Other
-    .sx
-      color: #008000
-    // Literal.String.Regex
-    .sr
-      color: #BB6688
-    // Literal.String.Single
-    .s1
-      color: #BA2121
-    // Literal.String.Symbol
-    .ss
-      color: #19177C
-    // Name.Builtin.Pseudo
-    .bp
-      color: #008000
-    // Name.Function.Magic
-    .fm
-      color: #0000FF
-    // Name.Variable.Class
-    .vc
-      color: #19177C
-    // Name.Variable.Global
-    .vg
-      color: #19177C
-    // Name.Variable.Instance
-    .vi
-      color: #19177C
-    // Name.Variable.Magic
-    .vm
-      color: #19177C
-    // Literal.Number.Integer.Long
-    .il
-      color: #666666
-
 
 /* Footer styling */
 .related
