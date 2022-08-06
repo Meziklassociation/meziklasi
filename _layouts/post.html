@@ -2,12 +2,18 @@
 layout: default
 ---
 
-<div class="post-header">
-	<h2>{{ page.title }}</h2>
-	<p>{{ page.date | date: "%-d. %-m. %Y" }} – <a href="/clanky/#{{ page.category | downcase }}">{{ page.category }}</a></p>
-</div>
+<article>
+	<section class="post-header">
+		<h2>{{ page.title }}</h2>
+		<p>
+			<time datetime="{{ page.date | date: "%-Y-%m-%-d" }}">
+				{{ page.date | date: "%-d. %-m. %Y" }}
+			</time>
+			– <a href="/clanky/#{{ page.category | downcase }}">{{ page.category }}</a></p>
+	</section>
 
-{{ content }}
+	{{ content }}
 
-<hr/>
-{% include footer.html %}
+	<hr/>
+	{% include footer.html %}
+</article>
