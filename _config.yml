@@ -12,6 +12,9 @@ permalink: /:categories/:title/
 
 markdown: kramdown
 
+plugins:
+  - jekyll-sitemap
+
 kramdown:
   math_engine: katex
 
