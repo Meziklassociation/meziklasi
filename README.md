@@ -8,6 +8,7 @@ This repository contains the source code to [meziklasi.cz](http://meziklasi.cz/)
 - Ruby (tested on 2.7)
 - Bundler (`gem install bundler`)
 - Jekyll (`gem install jekyll`)
+- Gems that Meziklasí relies on (`bundle update`)
 
 ### Development
 To start the development server, you can run the following command and then go to [localhost:4000](http://localhost:4000/).
