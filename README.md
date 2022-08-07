@@ -10,16 +10,9 @@ This repository contains the source code to [meziklasi.cz](http://meziklasi.cz/)
 - Jekyll (`gem install jekyll`)
 
 ### Development
-To start the development server, you can simple execute the following command and then go to [localhost:4000](http://localhost:4000/).
+To start the development server, you can run the following command and then go to [localhost:4000](http://localhost:4000/).
 ```
 bundle exec jekyll serve
 ```
 
-### Production
-To build the site, execute
-
-```
-bundle exec jekyll build
-```
-
-and Jekyll will create a `_site` directory in which will be all the static assets. This is the directory which should be deployed to production.
+Commits are automatically deployed using GitHub actions.
