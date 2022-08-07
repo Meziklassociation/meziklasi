@@ -1,0 +1,4 @@
+presets:
+  default:
+    formats: [webp, png, original]
+    widths: [200, 400, 800, 1200, 1600] # Image widths, in pixels.
