@@ -110,7 +110,7 @@ Zde naleznete několik vět, které se podařilo autorům názvosloví zachytit 
 <table>
   <tbody>
     <tr>
-      <td><figure><img src="/assets/img/nazvoslovi/craboman.webp" alt="Carboman"/><figcaption>Carboman</figcaption></figure></td>
+      <td><figure><img src="/assets/img/nazvoslovi/craboman.webp" alt="Craboman"/><figcaption>Craboman</figcaption></figure></td>
       <td><figure><img src="/assets/img/nazvoslovi/hipporigami.webp" alt="Hipporigami"/><figcaption>Hipporigami</figcaption></figure></td>
       <td><figure><img src="/assets/img/nazvoslovi/owlot.webp" alt="Owlot"/><figcaption>Owlot</figcaption></figure></td>
     </tr>
