@@ -94,8 +94,6 @@ $monospaced-font: "Roboto Mono"
   td
     padding-right: $table-cell-spacing
 
-    margin-bottom: $line-spacing
-
 // wiki-like table class
 .wiki-table
   float: right
@@ -115,9 +113,6 @@ $monospaced-font: "Roboto Mono"
 
   img
     max-width: $website-size * 0.2
-
-  figcaption
-    text-align: center
 
   // centering for smaller screens
   @media (max-width: 500px)
@@ -173,6 +168,12 @@ body
   // text formatting
   font-family: $serif-font, sans-serif
   line-height: 1.5
+
+  table
+    margin-bottom: $line-spacing
+
+  figcaption
+    text-align: center
 
   // list formatting
   ul, ol
