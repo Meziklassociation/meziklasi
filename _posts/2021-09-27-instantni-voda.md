@@ -10,6 +10,8 @@ Meziklasští vědci na tento problém objevili revoluční nové řešení: ins
 
 ![Obrázek instantní vody](/assets/img/instavoda.png)
 
+{% picture jpt-webp instavoda.png %}
+
 Stačí přidat vodu a okamžitě máte vodu!
 
 Složení: tajný recept
