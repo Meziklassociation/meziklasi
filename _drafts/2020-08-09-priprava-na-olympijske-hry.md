@@ -14,7 +14,7 @@ Po nějaké době se průzkumníci vrátili s dlouhým seznamem her, které se h
 U této hry byla z názvu pravidla jasná okamžitě -- cílem bylo v určitém časovém limitu ve vymezené oblasti poschovávat co nejvíce věcí. Přes několik pokusů však žádný ze zápasů neměl jasného vítěze, jelikož pokaždé někdo schoval rozhodčímu stopky a muselo se začínat odznova.
 
 ### Hledání min
-Tato hra ve svém názvu rovnou popisuje celý její průběh, což Meziklasanům značně ušetřilo práci s rekonstrukcí pravidel. K přípravě použili nevyužitou munici své [vesnické armády](https://meziklasi.cz/historicke/system-obrany/) a pole kousek za vesnicí zaminovali.
+Tato hra ve svém názvu rovnou popisuje celý její průběh, což Meziklasanům značně ušetřilo práci s rekonstrukcí pravidel. K přípravě použili nevyužitou munici své [vesnické armády](/historicke/system-obrany/) a pole kousek za vesnicí zaminovali.
 
 Ze začátku se zdálo, že nejúspěšnější strategie bude šťouchání klackem do hlíny před sebou. I přes určité výhody (například kypřeni půdy) byla tato metoda pomalá a byla postupně nahrazena válením sudů. Bohužel se casem přišlo na to, že čím byl člověk úspěšnější v hledání min, tím méně... byl.
 
