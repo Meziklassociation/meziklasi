@@ -40,20 +40,8 @@ $background-lighter-dark: rgb(43, 46, 48)
 $code-background-color: #f2f2f2 // background colors
 
 /* FONT SETTINGS */
-$serif-font: "Roboto"
+$serif-font: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 $monospaced-font: "Roboto Mono"
-
-@font-face
-  font-family: $serif-font
-  src: local($serif-font), url("/assets/css/fonts/Roboto-Light.ttf") format("truetype")
-  font-weight: normal
-  font-style: normal
-
-@font-face
-  font-family: $serif-font
-  src: local($serif-font), url("/assets/css/fonts/Roboto-Regular.ttf") format("truetype")
-  font-weight: bold
-  font-style: normal
 
 @font-face
   font-family: $monospaced-font
@@ -137,7 +125,7 @@ $monospaced-font: "Roboto Mono"
     text-align: center
     display: block
     font-size: $title-size
-    font-family: $serif-font, sans-serif
+    font-family: $serif-font
 
 // post header formatting
 .post-header
@@ -166,7 +154,7 @@ $monospaced-font: "Roboto Mono"
 
 body
   // text formatting
-  font-family: $serif-font, sans-serif
+  font-family: $serif-font
   line-height: 1.5
 
   table
