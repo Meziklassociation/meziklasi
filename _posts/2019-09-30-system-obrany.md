@@ -41,6 +41,6 @@ Na sněmu rovněž nastal problém tehdy, když při tréninku zavelel plukovní
 Tento problém však záhy vyřešil Generál Ygor, který postavil vojína Ygora mezi dvě rovnoběžná zrcadla. Poté řada z některých úhlů působila „podstiatně impozjantněji“ a všichni mohli jít domů. 
 
 ### Zánik armády
-Chvíli po založení meziklasské armády se stal skandál, který jí byl osudný. Kuchař tehdy navedl desátníka, aby ukradl skladníkovi munici a dal ji do zástavy za útratu v hospodě. Na to ale nešťastnou náhodou přišel agent tajných služeb a podal generálovi zprávu, který rozjel vyšetřování napříč celou armádu. Nakonec byl desátník vojenským soudem odsouzen a žalářníkem uvržen do žaláře. A to bylo poprvé v historii lidstva, kdy neuváženými činy jediného člena armády ve vězení skončila armáda celá.
+Chvíli po založení meziklasské armády se stal skandál, který jí byl osudný. Kuchař tehdy navedl desátníka, aby ukradl skladníkovi munici a dal ji do zástavy za útratu v hospodě. Na to ale nešťastnou náhodou přišel agent tajných služeb a podal generálovi zprávu, který rozjel vyšetřování napříč celou armádou. Nakonec byl desátník vojenským soudem odsouzen a žalářníkem uvržen do žaláře. A to bylo poprvé v historii lidstva, kdy neuváženými činy jediného člena armády ve vězení skončila armáda celá.
 
 Obyvatelé Meziklasí se nakonec rozhodli, že místo vytváření náhradní armády počkají, až ta stará bude propuštěna. Jelikož však v žaláři skončil i vojenský věštec, tak nikdo neví, jak dlouho toto čekání potrvá.
