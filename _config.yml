@@ -21,6 +21,13 @@ jektex:
   macros:
     - ["\\Q", "\\mathbb{Q}"]
 
+picture:
+  source: "assets/img"
+  output: "assets/img/generated"
+  suppress_warnings: true
+  ignore_missing_images: true
+  nomarkdown: false
+
 exclude: ["*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "scripts/", "ignored/", "LICENSE.txt", "README.md", "Rakefile"]
 
 defaults:

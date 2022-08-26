@@ -8,7 +8,7 @@ Máte plné zuby tahání těžkých a nepraktických lahví vody na cestách? L
 
 Meziklasští vědci na tento problém objevili revoluční nové řešení: instantní voda!
 
-![Obrázek instantní vody](/assets/img/instavoda.png)
+{% picture instavoda.png --alt Obrázek instantní vody %}
 
 Stačí přidat vodu a okamžitě máte vodu!
 
