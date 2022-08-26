@@ -1,4 +1,5 @@
 name: Publish to GitHub Pages
+description: Build and publish the site to GitHub Pages
 
 # Run when new code is pushed to one of the main branches. Also provide a button for manual deploys.
 on:
