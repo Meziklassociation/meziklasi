@@ -7,18 +7,19 @@ description: >-
 
 url: "https://meziklasi.cz"
 baseurl: ""
-
 permalink: /:categories/:title/
-
 markdown: kramdown
+show_related: true
 
 plugins:
   - jekyll-sitemap
+  - jektex
 
-kramdown:
-  math_engine: katex
-
-show_related: true
+jektex:
+  cache_dir: ".jekyll-cache"
+  ignore: ["*.xml", "*.css", "*.sass", "*.svg", "*.js", "*.map"]
+  macros:
+    - ["\\Q", "\\mathbb{Q}"]
 
 exclude: ["*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "scripts/", "ignored/", "LICENSE.txt", "README.md", "Rakefile"]
 
