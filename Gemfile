@@ -2,10 +2,7 @@ source "https://rubygems.org"
 
 gem "jekyll"
 gem "jekyll-sitemap"
-gem "execjs"
-gem "kramdown-math-katex"
 gem "webrick", "~> 1.7"
-
 
 group :jekyll_plugins do
     # (other jekyll plugins)
