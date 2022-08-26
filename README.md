@@ -1,6 +1,7 @@
 # [meziklasi.cz](http://meziklasi.cz/)
 
-This repository contains the source code to [meziklasi.cz](http://meziklasi.cz/), dedicated to the legendary Czech village [Meziklasí](https://en.wikipedia.org/wiki/Meziklas%C3%AD).
+This repository contains the source code to [meziklasi.cz](http://meziklasi.cz/), dedicated to the legendary Czech village [Meziklasí](https://en.wikipedia.org/wiki/Meziklas%C3%AD). Code of site is published under GPLv3 license and site content
+under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ## Local setup
 
