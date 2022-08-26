@@ -9,12 +9,16 @@ Meziklasí (japonsky 耳の間) je s největší pravděpodobností vesnice, nac
   <tr><th colspan="2">Základní informace o vesnici</th></tr>
   <tr>
     <td>
-      <img src="/assets/img/zaba.png" alt="Maskot" class="invertable" />
-	  <figcaption>Maskot</figcaption>
+      <span class="invertable">
+        {% picture zaba.png --alt Maskot %}
+      </span>
+	    <figcaption>Maskot</figcaption>
     </td>
     <td>
-      <img src="/assets/img/logo.png" alt="Znak" class="invertable" />
-	  <figcaption>Znak</figcaption>
+      <span class="invertable">
+        {% picture logo.png --alt Znak %}
+      </span>
+      <figcaption>Znak</figcaption>
     </td>
   </tr>
   <tr>

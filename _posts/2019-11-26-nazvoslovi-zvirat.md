@@ -110,14 +110,14 @@ Zde naleznete několik vět, které se podařilo autorům názvosloví zachytit 
 <table>
   <tbody>
     <tr>
-      <td><figure><img src="/assets/img/nazvoslovi/craboman.webp" alt="Craboman"/><figcaption>Craboman</figcaption></figure></td>
-      <td><figure><img src="/assets/img/nazvoslovi/hipporigami.webp" alt="Hipporigami"/><figcaption>Hipporigami</figcaption></figure></td>
-      <td><figure><img src="/assets/img/nazvoslovi/owlot.webp" alt="Owlot"/><figcaption>Owlot</figcaption></figure></td>
+      <td><figure>{% picture nazvoslovi/craboman.webp --alt Craboman %}<figcaption>Craboman</figcaption></figure></td>
+      <td><figure>{% picture nazvoslovi/hipporigami.webp --alt Hipporigami %}<figcaption>Hipporigami</figcaption></figure></td>
+      <td><figure>{% picture nazvoslovi/owlot.webp --alt Owlot %}<figcaption>Owlot</figcaption></figure></td>
     </tr>
     <tr>
-      <td><figure><img src="/assets/img/nazvoslovi/whalocoin.webp" alt="Whalocoin"/><figcaption>Whalocoin</figcaption></figure></td>
-      <td><figure><img src="/assets/img/nazvoslovi/trilobit.webp" alt="Trilobit"/><figcaption>Trilobit</figcaption></figure></td>
-      <td><figure><img src="/assets/img/nazvoslovi/squirronaut.webp" alt="Squirronaut"/><figcaption>Squirronaut</figcaption></figure></td>
+      <td><figure>{% picture nazvoslovi/whalocoin.webp --alt Whalocoin %}<figcaption>Whalocoin</figcaption></figure></td>
+      <td><figure>{% picture nazvoslovi/trilobit.webp --alt Trilobit %}<figcaption>Trilobit</figcaption></figure></td>
+      <td><figure>{% picture nazvoslovi/squirronaut.webp --alt squirronaut %}<figcaption>Squirronaut</figcaption></figure></td>
     </tr>
   </tbody>
 </table>
