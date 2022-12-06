@@ -4,19 +4,21 @@ category: Vědecké články
 description: "Informativní reportáž o historii meziklasské astronomie"
 ---
 
-Jak již víme, obyvatelé Meziklasí jsou často zanedbáni vědou, například při léčení nemocí obyvatel nebo výrobou instantní vody.
-Jak by jste mohli předpokládat, někteří lidé se snažili o pozorovaní hvězd ve dne, protože jim přišlo nudné,
-že všichni ostatní je pozorují v noci.
+Jak již víme, obyvatelé Meziklasí jsou velmi vědecky založení, ať už se jedná o [léčení nemocí obyvatel](/vedecke-clanky/tradicni-medicina/) nebo výrobu [instantní vody](/vynalezy/instantni-voda/).
+O pozorování hvězd se snažili již od nepaměti a především ve dne, protože jim přišlo nudné, že obyvatelé ostatních vesnice je pozorují výhradně v noci.
 
-Obyvatelům Meziklasí se v dávných dobách podařilo vytvořit skleněné koule. Jejich výrobní proces byl velice komplexní a precizní na danou dobu:
-1. Najděte písek. Pozor, toto je nejtěžší část - občas si občané Meziklasí spletli písek s uranem 238, který potřebovali na mezikvašák.
-   Když se toto stalo, mezikvašák nebyl a Robina s Ygorem chytily deprese
-3. Písek dejte do pece a vytvořte oheň v peci
-4. Až pec dohoří, vytáhněte váš výtvor. Někdy se povede sklo, jindy ne. Občane to nedokáží replikovat, takže nikdy neví, co vytvoří
-5. Pokud máte sklo, obložte ho v rozích uranem 238. Pokud ne, jděte zpět na krok 1.
-6. Čekejte. Nejspíše pěkně dlouho.
-7. Po nějaké době se rohy skla obrousí, vzhledem k tomu, že sklo projde radioaktivním rozkladem díky uranu
-8. Nakonec budete potenciálně mít skleněnou kouli, nebo pouze část - žáleži, jestli se vyráběl kvašak a uran byl ukradnut
+Prvotní, poněkud nezdařené pokusy, se meziklasané rozhodli zachránit tím, že si na pozorování pořídí skleněnou lupu. Její pracný výrobní proces vypadal nějak takto:
+1. Najděte písek.
+	- Pozor, neplést si s uranem 238!
+	- Ne, bahno není vhodná náhrada.
+2. Rozžehněte pec.
+3. Do pece nasypte písek.
+4. Po 3-15 hodinách výtvor z pece vytáhněte:
+	- Pokud jste vytáhli čisté sklo, skvělá práce! Pokračujte na krok 5.
+	- Pokud jste vytáhli zakalené sklo, postup opakujte.
+	- Pokud jste vytáhli prádlo, stojíte u pračky - jděte k peci!
+5. Obložte sklo uranem.
+6. Čekejte - rohy skla se díky radioaktivnímu rozkladu obrousí a viola - lupa je na světě.
 
-Poté co obyvatelé měli skleněnou kouli, chtěli se podávat na hvězdy ve dne. Podívali se zkrz ni jako lupu, ale všichni, kteří se podívali,
-říkali, že viděli pouze černou. Mnoho obyvatel poté mělo problém chodit po cestách, nebyli ale schopni vysvětlit proč.
+Po sestrojení první lupy se všichni astronomové sešli a s nadšením se snažili opět pozorovat oblohu lupou, samosebou ve dne.
+Žádné hvězdy bohužel neobjevili, ale za to objevili řadu nových zajímavých očních vad.
