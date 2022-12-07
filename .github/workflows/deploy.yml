@@ -33,6 +33,8 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           bundler-cache: true
+          cache-version: 1
+          ruby-version: '3.0'
 
       - name: ✨ Setup Node
         uses: actions/setup-node@v3
