@@ -28,7 +28,15 @@ picture:
   ignore_missing_images: true
   nomarkdown: false
 
-exclude: ["*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "scripts/", "ignored/", "LICENSE.txt", "README.md", "Rakefile"]
+exclude:
+  - "*.gemspec"
+  - "*.gem"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "scripts/"
+  - "LICENSE"
+  - "README.md"
+  - "assets/js/"
 
 defaults:
   - scope:
