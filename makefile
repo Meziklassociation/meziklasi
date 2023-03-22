@@ -1,6 +1,9 @@
 SHELL=/bin/fish
 
-.PHONY: clean build deploy upload
+.PHONY: run
+
+run:
+	bundle exec jekyll serve --trace --drafts
 
 deploy: clean build upload
 
