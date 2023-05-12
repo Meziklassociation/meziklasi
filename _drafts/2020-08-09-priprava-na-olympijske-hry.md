@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Příprava na olympijské hry 🏅"
+title:  "Příprava na Olympijské hry 🏅"
 category: Historické
 ---
 
@@ -18,7 +18,7 @@ Ostatní Meziklasané byli nadšení, až do chvíle zjištění, že seznam obs
 Naštěstí se Meziklasanům svou vynalézavostí povedlo pravidla her z názvů domyslet.
 
 ### Hra na schovávanou
-U této hry byla z názvu pravidla jasná okamžitě -- cílem bylo v určitém časovém limitu ve vymezené oblasti poschovávat co nejvíce věcí. Přes několik pokusů však žádný ze zápasů neměl jasného vítěze, jelikož pokaždé někdo schoval rozhodčímu stopky a muselo se začínat odznova.
+U této hry byla z názvu pravidla jasná okamžitě -- cílem bylo v určitém časovém limitu ve vymezené oblasti poschovávat co nejvíce věcí. Přes několik pokusů však žádný ze zápasů neměl jasného vítěze, jelikož pokaždé někdo schoval rozhodčímu stopky a muselo se začínat od začátku.
 
 ### Hledání min
 Tato hra ve svém názvu rovnou popisuje celý její průběh, což Meziklasanům značně ušetřilo práci s rekonstrukcí pravidel.
