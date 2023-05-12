@@ -1,10 +1,10 @@
 ---
-title:  "Tradiční meziklasská medicína 🗜"
+title:  "Tradiční meziklaská medicína 🗜"
 category: Vědecké články
 description: "Meziklaská tradiční medicína je trošku netradiční v porovnání s jakoukoli jinou. Zde se dozvíte proč."
 ---
 
-Jako každá světová kultura s tisíciletou historií má i ta meziklasská vlastní názor na to, jakým způsobem léčit nemocné, zraněné a Robina. Ten se ale od ostatních liší takovým způsobem, že místo tradičního symbolu medicíny byl raději použit symbol svěráku.
+Jako každá světová kultura s tisíciletou historií má i ta meziklaská vlastní názor na to, jakým způsobem léčit nemocné, zraněné a Robina. Ten se ale od ostatních liší takovým způsobem, že místo tradičního symbolu medicíny byl raději použit symbol svěráku.
 
 Tradiční vesnická medicína prošla v průběhu času značnými změnami, jejíž kulminaci[^1] popisuje tento článek.
 
@@ -22,7 +22,7 @@ Nemoci se snaží léčit doživotním zákazem používat písmeno „c,“ zá
 Doktor Wasil vyvinul několik revolučních metod léčení, které výrazně zvýšily jak procento úplně vyléčených, tak rovněž snížily procento těch, kteří by nemocní být v budoucnu mohli (podrobněji vysvětleno dále).
 
 #### Léčba uvědoměním
-Tato metoda spočívá v pacientově uvědomění si svého problému a aplikování tradiční anglické věty „majnd ouvr bady.“ Záznam v meziklasské kronice o aplikaci této metody vypadá následně:
+Tato metoda spočívá v pacientově uvědomění si svého problému a aplikování tradiční anglické věty „majnd ouvr bady.“ Záznam v meziklaské kronice o aplikaci této metody vypadá následně:
 
 > **Pacient:**	Dobrý den, pade doktore. \*kejch\*  
 > **Doktor:**	Dobrý den, co Vás trápí?  

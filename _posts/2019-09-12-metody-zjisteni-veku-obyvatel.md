@@ -11,13 +11,13 @@ Tento článek podrobně rozebírá několik metod, které toto omezení vynalé
 ### Metoda počítání letokruhů
 První metoda spočívá v tom, že z těla jedince je vyříznut kolmým řezem plátek, na kterém jsou následně spočítány letokruhy. Tato metoda je velmi přesná, efektivní, ale dnes již nepoužívaná, jelikož se při opakovaném používání obyvatelé Meziklasí zkracovali.
 
-V místní kronice byla tato metoda komentována meziklasským rodákem Robinem následně:
+V místní kronice byla tato metoda komentována meziklaským rodákem Robinem následně:
 > Jiakmile zjapomenu, kolik mi to jie, tak budu zjase o kjus menšjí.
 
 ### Metoda rozboru lišejníků
 Protože obyvatelé Meziklasí se kvůli nedostatku přirozených predátorů nemají důvod pohybovat obzvláště rychle, tak zpravidla ze severní strany obrůstají lišejníky. Z množství vrstev lze tedy odhadnout přibližné stáří jednotlivce, či při případném „srůstu“ i skupiny. 
 
-Tato metoda je však výrazně ovlivňována tuhostí zimy, proto je velmi nepřesná -- z těchto důvodů se od ní proto časem upustilo, což v dopise své tetě z Bruntálu zachycuje poeticky nadaný meziklasský rodák Ygor:
+Tato metoda je však výrazně ovlivňována tuhostí zimy, proto je velmi nepřesná -- z těchto důvodů se od ní proto časem upustilo, což v dopise své tetě z Bruntálu zachycuje poeticky nadaný meziklaský rodák Ygor:
 
 > Každé léto, milá teto,  
 > lišejníky lišejí.  

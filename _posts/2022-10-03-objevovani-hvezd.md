@@ -1,7 +1,7 @@
 ---
-title: "Meziklasské objevování hvězd"
+title: "meziklaské objevování hvězd"
 category: Vědecké články
-description: "Informativní reportáž o historii meziklasské astronomie"
+description: "Informativní reportáž o historii meziklaské astronomie"
 ---
 
 Jak již víme, obyvatelé Meziklasí jsou velmi vědecky založení, ať už se jedná o [léčení nemocí obyvatel](/vedecke-clanky/tradicni-medicina/) nebo výrobu [instantní vody](/vynalezy/instantni-voda/).

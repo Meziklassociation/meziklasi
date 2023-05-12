@@ -5,7 +5,7 @@ description: "Taky Vám připadá, že věta 'Ten pes má v hlavě langoš' je m
 note: -op
 ---
  
-Ve spolupráci s vědeckou komunitou vytvořila meziklasská elita systém názvosloví zvířat, jehož účelem je za co nejkratší čas podat o zvířeti co možná nejvíce přesných informací. Tento článek zachycuje výsledek jejich snažení a rovněž slouží jako dokumentace k tomuto mezivesničně uznávanému standardu.
+Ve spolupráci s vědeckou komunitou vytvořila meziklaská elita systém názvosloví zvířat, jehož účelem je za co nejkratší čas podat o zvířeti co možná nejvíce přesných informací. Tento článek zachycuje výsledek jejich snažení a rovněž slouží jako dokumentace k tomuto mezivesničně uznávanému standardu.
 
 ### Tvorba základu
 Převést jméno zvířete na základní tvar názvosloví lze provést v několika jednoduchých krocích:
@@ -93,7 +93,7 @@ Zde je několik příkladů správného převodu:
 
 ### Příklady použití ve větách
 
-Zde naleznete několik vět, které se podařilo autorům názvosloví zachytit v každodenních rozhovorech meziklasských obyvatel:
+Zde naleznete několik vět, které se podařilo autorům názvosloví zachytit v každodenních rozhovorech meziklaských obyvatel:
 - Už jsi zkusila ten Whalocoin? Ne, ale cena Dogocoinu teď docela roste.
 - Ve dne obyčejný úřední krab, v noci hrdina bojující se zločinem -- Craboman!
 - Křižník Játanic se potopil po nárazu do birdobergu.
