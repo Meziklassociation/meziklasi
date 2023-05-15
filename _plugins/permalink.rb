@@ -9,7 +9,7 @@ module Jekyll
       
       # change each of the permalinks
       site.posts.docs.each do |item|
-        category = I18n.transliterate(item.data['category'].downcase.gsub(" ", "-"))
+        category = I18n.transliterate(item.data['category'].to_s.downcase.gsub(" ", "-"))
         title = item.data['slug']
     
         item.data['permalink'] = "#{category}/#{title}/"
