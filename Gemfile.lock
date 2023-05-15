@@ -13,7 +13,7 @@ GEM
     execjs (2.8.1)
     ffi (1.15.5)
     forwardable-extended (2.6.0)
-    google-protobuf (3.22.2)
+    google-protobuf (3.22.2-x86_64-linux)
     htmlentities (4.3.4)
     http_parser.rb (0.8.0)
     i18n (1.12.0)
@@ -88,11 +88,11 @@ PLATFORMS
 
 DEPENDENCIES
   jektex (~> 0.1.0)
-  jekyll
+  jekyll (~> 4.3.2)
   jekyll-sitemap
   jekyll_picture_tag (~> 2.0)
   ruby-vips
   webrick (~> 1.7)
 
 BUNDLED WITH
-   2.5.0.dev
+   2.4.13
