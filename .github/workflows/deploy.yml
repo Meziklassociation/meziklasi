@@ -34,7 +34,7 @@ jobs:
         with:
           bundler-cache: true
           cache-version: 2
-          ruby-version: '3.0'
+          ruby-version: '3.3.22'
 
       - name: ✨ Setup Node
         uses: actions/setup-node@v3
@@ -72,3 +72,4 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
+
