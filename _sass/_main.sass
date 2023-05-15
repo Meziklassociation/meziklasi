@@ -71,8 +71,8 @@ $monospaced-font: "Roboto Mono"
 
   // separator character + spacing
   .navigation-separator
-    margin-left: $navigation-item-spacing / 2
-    margin-right: $navigation-item-spacing / 2
+    margin-left: calc($navigation-item-spacing / 2)
+    margin-right: calc($navigation-item-spacing / 2)
 
     &:before
       content: "•"
@@ -87,8 +87,8 @@ $monospaced-font: "Roboto Mono"
   float: right
 
   // cell spacing
-  padding: $table-cell-spacing / 2
-  margin: $table-cell-spacing / 2
+  padding: calc($table-cell-spacing / 2)
+  margin: calc($table-cell-spacing / 2)
 
   // italics for the first column
   tr
@@ -142,7 +142,7 @@ $monospaced-font: "Roboto Mono"
     padding: $code-padding
 
     border-radius: $code-border-roundness
-    padding: ($code-padding / 2) $code-padding
+    padding: calc($code-padding / 2) $code-padding
     margin-bottom: $line-spacing
 
 // useful CSS classes
