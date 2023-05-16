@@ -1,6 +1,7 @@
 ---
 title: Úvodní stránka
 order: 0
+permalink: index.html
 ---
 
 ## Vítejte v Meziklasí!

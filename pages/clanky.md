@@ -1,6 +1,7 @@
 ---
 title: Články
 order: 2
+permalink: /clanky/
 ---
 
 {% assign sorted_categories = site.categories | sort %}

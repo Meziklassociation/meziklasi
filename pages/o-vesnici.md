@@ -1,6 +1,7 @@
 ---
 title: O vesnici
 order: 1
+permalink: /o-vesnici/
 ---
 
 Meziklasí (japonsky 耳の間) je s největší pravděpodobností vesnice, nacházející se na území České republiky.
