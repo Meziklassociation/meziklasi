@@ -16,3 +16,9 @@ build:
 
 upload:
 	scripts/upload
+
+install:
+	gem install bundler
+	bundle config set --local path '.vendor/bundle'
+	bundle install
+
