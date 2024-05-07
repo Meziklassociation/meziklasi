@@ -25,4 +25,4 @@ Jako vzor mohou sloužit již na této stránce publikované články a obrázky
 
 
 ### Zdrojový kód
-Webová stránka je v neustálém vývoji a její zdrojový kód je volně dostupný na [GitHubu](https://github.com/xiaoxiae/meziklasi) pod licencí [MIT](https://github.com/xiaoxiae/meziklasi/blob/master/LICENSE.txt). Budeme moc rádi, když nás podpoříte hvězdičkou ⭐!
+Webová stránka je v neustálém vývoji a její zdrojový kód je volně dostupný na [GitHubu](https://github.com/xiaoxiae/meziklasi) pod licencí [AGPLv3](https://github.com/xiaoxiae/meziklasi/blob/master/LICENSE.txt). Budeme moc rádi, když nás podpoříte hvězdičkou ⭐!
