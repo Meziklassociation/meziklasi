@@ -1,5 +1,5 @@
 ---
-title: "meziklaské objevování hvězd"
+title: "Meziklaské objevování hvězd 🌠"
 category: Vědecké články
 description: "Informativní reportáž o historii meziklaské astronomie"
 ---
