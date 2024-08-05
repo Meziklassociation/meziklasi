@@ -4,7 +4,11 @@ category: Recepty
 description: "Chcete si připravit tradiční mezikvašák? Ikdyž nám není jasné proč, tak zde máte recept, který Vám v tom pomůže"
 ---
 
+{: .float-right .medium-image}
+![Ilustrace připraveného Mezikvašáku](/assets/img/mezikvasak.webp)
+
 ### Ingredience
+
 Budete potřebovat:
 - 1x sklenice okurek
 - 1x plátek papíru a neořezaná tužka
