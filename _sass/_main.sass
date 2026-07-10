@@ -1,5 +1,6 @@
 @charset "utf-8"
-@import "highlight"
+@use "sass:color"
+@use "highlight"
 
 /* SIZE DEFINITIONS */
 $website-size: 800px // width of content of the website
@@ -211,7 +212,7 @@ body
     padding-left: $item-padding
     border-width: 0 0 0 3px
     border-style: dashed
-    border-color: lighten($quote-color, 25%)
+    border-color: color.adjust($quote-color, $lightness: 25%)
 
   // horizontal rule formatting (fade from sides)
   hr
